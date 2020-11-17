@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+body {
+	background: url("/assets/images/background.svg"), #050505;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	background-blend-mode: overlay;
+}
