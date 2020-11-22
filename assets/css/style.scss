@@ -5,9 +5,43 @@
 
 
 body {
-	background: url("/assets/images/background.svg"), #050505;
+	background: url("/assets/images/background.svg"), #080808;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;
 	background-blend-mode: overlay;
+}
+
+/* ************************** */
+.serie--movies {
+	list-style: none;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: auto;
+	column-gap: 10px;
+	row-gap: 10px;
+}
+
+.serie--movie {
+	position: relative;
+	height: 300px;
+}
+
+.serie--movie__cover {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.serie--movie--info {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding: 10px;
+	background: url("/assets/images/nav-bg.gif") #353535;
+}
+
+.serie--movie--info__name {
+	display: block;
 }

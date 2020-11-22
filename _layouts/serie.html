@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% assign member = site.members | where:"object-id", page.member-id | first %}
+
+<h2 class="serie__label">{{ page.label }}</h2>
+
+<h3 class="serie__member"><a href="{{ member.url }}">{{ member.name }}</a></h3>
+
+<h3 class="serie__name">{{ page.name }}</h3>
+
+<p class="serie__description">
+	{{ page.description }}
+</p>
+
+
+<ul class="serie--movies">
+	{% for movie in page.movies %}
+		<li class="serie--movie">
+			<img class="serie--movie__cover" src="{{ movie.cover }}">
+			<div class="serie--movie--info">
+				<em class="serie--movie--info__director"> {{ movie.director }} </em>
+				<a class="serie--movie--info__name" href="{{ movie.filmaffinity }}" target="_blank"> {{ movie.name }} </a>
+				<small class="serie--movie--info__year"> {{ movie.year }} </small>
+			</div>			
+		</li>
+	{% endfor %}
+</ul>

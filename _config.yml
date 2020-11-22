@@ -26,6 +26,26 @@ github_username:  oliverfernandez
 markdown: kramdown
 theme: jekyll-theme-midnight
 
+# Collections
+collections:
+  members:
+    output: true
+  editions:
+    output: true
+  series:
+    output: true
+
+# To link collections with specific layouts
+defaults:
+  - scope:
+      type: members
+    values:
+      layout: member
+  - scope:
+      type: series
+    values:
+      layout: serie
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
