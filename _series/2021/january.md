@@ -24,13 +24,21 @@ movies:
  - name: Las horas
    director: Stephen Daldry
    year: 2003
+   filmaffinity: https://www.filmaffinity.com/es/film530432.html
+   cover: https://pics.filmaffinity.com/the_hours-352714282-large.jpg
  - name: Antes del atardecer
    director: Richard Linklater
    year: 2004
+   filmaffinity: https://www.filmaffinity.com/es/film564405.html
+   cover: https://pics.filmaffinity.com/before_sunset-572180379-large.jpg
  - name: Cold War
    director: Pawel Pawlikowski
    year: 2018
+   filmaffinity: https://www.filmaffinity.com/es/film172115.html
+   cover: https://pics.filmaffinity.com/zimna_wojna-793668067-large.jpg
  - name: Lázaro feliz
    director: Alice Rohrwacher
    year: 2018
+   filmaffinity: https://www.filmaffinity.com/es/film820491.html
+   cover: https://pics.filmaffinity.com/lazzaro_felice-141665342-large.jpg
 ---

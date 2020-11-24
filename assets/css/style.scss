@@ -18,13 +18,25 @@ body {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-template-rows: auto;
-	column-gap: 10px;
-	row-gap: 10px;
+	column-gap: 15px;
+	row-gap: 15px;
+	width: 100%;
+	padding: 0;
+
+	@media screen and (max-width: 600px) {
+		& {
+			grid-template-columns: 320px;
+		}
+	}
 }
 
 .serie--movie {
 	position: relative;
 	height: 300px;
+
+	&:last-child {
+		grid-column-start: 2;
+	} 
 }
 
 .serie--movie__cover {
