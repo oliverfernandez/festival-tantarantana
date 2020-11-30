@@ -22,21 +22,11 @@ body {
 	row-gap: 15px;
 	width: 100%;
 	padding: 0;
-
-	@media screen and (max-width: 600px) {
-		& {
-			grid-template-columns: 320px;
-		}
-	}
 }
 
 .serie--movie {
 	position: relative;
 	height: 300px;
-
-	&:last-child {
-		grid-column-start: 2;
-	} 
 }
 
 .serie--movie__cover {
@@ -57,3 +47,18 @@ body {
 .serie--movie--info__name {
 	display: block;
 }
+
+@media screen and (max-width: 600px) {
+	.serie--movies {
+		grid-template-columns: 240px;
+		justify-content: center;
+	}
+}
+
+@media screen and (min-width: 600px) {
+	.serie--movie:last-child {
+		grid-column-start: 2;
+	}
+}
+
+/* ************************** */
