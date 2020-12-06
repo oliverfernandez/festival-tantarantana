@@ -16,12 +16,22 @@ layout: default
 <ul class="serie--movies">
 	{% for movie in page.movies %}
 		<li class="serie--movie">
-			<img class="serie--movie__cover" src="{{ movie.cover }}">
+			<img class="serie--movie__cover" src="{{ movie.filmaffinity.cover }}">
 			<div class="serie--movie--info">
 				<em class="serie--movie--info__director"> {{ movie.director }} </em>
-				<a class="serie--movie--info__name" href="{{ movie.filmaffinity }}" target="_blank"> {{ movie.name }} </a>
+				<a class="serie--movie--info__name" href="{{ movie.filmaffinity.url }}" target="_blank"> {{ movie.name }} </a>
 				<small class="serie--movie--info__year"> {{ movie.year }} </small>
 			</div>			
+		</li>
+	{% endfor %}
+</ul>
+
+<ul class="serie--edition">
+	{% assign edition = site.editions | where:"object-id", page.edition-id | first %}
+	{% for editionSerie in edition.series %}
+		<li class="serie--edition--serie {% if editionSerie.serie-id == page.object-id %} serie--edition--serie__current {% endif %}">
+			{% assign serie = site.series | where:"object-id", editionSerie.serie-id | first %}
+			<a class="serie--edition--serie__link" href="{{ serie.url }}">{{ serie.label }}</a>
 		</li>
 	{% endfor %}
 </ul>

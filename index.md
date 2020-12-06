@@ -16,3 +16,14 @@ Como dirian en Cannes... *ya está aquí, y es hermosa*. Conoce mes a mes los ci
 		</li>
 	{% endfor %}
 </ul>
+
+## Conoce al jurado
+
+<ul class="members">
+	{% for editionSerie in edition2021.series %}
+		{% assign serie = site.series | where:"object-id", editionSerie.serie-id | first %}
+		<li class="edition--serie">
+			<a class="edition--serie__link" href="{{ serie.url }}">{{ serie.label }}</a>
+		</li>
+	{% endfor %}
+</ul>

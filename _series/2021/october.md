@@ -1,13 +1,11 @@
 ---
-object-id: serie_2021_january
+object-id: serie_2021_october
 edition-id: edition_2021
-label: Enero
-member-id: member_gaby
-name: ¡En un mundo de niños!
+label: Octubre
+member-id: member_magda
+name: "Vampiros: pop & erotismo"
 description: |
- Se dice que sólo los artistas y los niños ven la vida tal y como es... pues yo, quiero verla con sus ojos. Con este ciclo quiero que todos seamos esos niños y vivamos sus historias contadas desde su mundo, que aunque a veces trágico, no deja de ser mágico. Disfrutemos de los actores más pequeños siendo los más grandes protagonistas, y démosles un homenaje por su enorme aportación al cine.
- <br /><br />
- Ahora sí, a disfrutar como niños...
+ No hay mejor manera de estrenar en el festival que con un ciclo sobre criaturas de la noche.  Los vampiros han sido de los temas que han aparecido en el cine desde sus inicios, y quizá eso ha dado lugar a una enorme variedad de interpretaciones sobre el mito original. Para mi ciclo he escogido distintas películas que intentan mostrar esa variedad. En todas el protagonista es esta criatura tremendamente atractiva, sedienta e inmortal.
 movies:
   - name:
     director:

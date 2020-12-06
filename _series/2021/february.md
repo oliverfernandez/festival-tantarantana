@@ -1,13 +1,13 @@
 ---
-object-id: serie_2021_january
+object-id: serie_2021_february
 edition-id: edition_2021
-label: Enero
-member-id: member_gaby
-name: ¡En un mundo de niños!
-description: |
- Se dice que sólo los artistas y los niños ven la vida tal y como es... pues yo, quiero verla con sus ojos. Con este ciclo quiero que todos seamos esos niños y vivamos sus historias contadas desde su mundo, que aunque a veces trágico, no deja de ser mágico. Disfrutemos de los actores más pequeños siendo los más grandes protagonistas, y démosles un homenaje por su enorme aportación al cine.
+label: Febrero
+member-id: member_aaron
+name: Luces de neón
+description: >-
+ El motivo por el que he escogido este ciclo es por lo bello de los mundos de la noche y la fiesta, siempre envueltos de perversión, suciedad y luces de neón y con los que tanto me gusta gozar, siempre como voyeur, desde la barrera, como espectador.
  <br /><br />
- Ahora sí, a disfrutar como niños...
+ ¡Buenas tardes!
 movies:
   - name:
     director:

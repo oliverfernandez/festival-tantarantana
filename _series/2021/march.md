@@ -1,13 +1,11 @@
 ---
-object-id: serie_2021_january
+object-id: serie_2021_march
 edition-id: edition_2021
-label: Enero
-member-id: member_gaby
-name: ¡En un mundo de niños!
+label: Marzo
+member-id: member_cristina
+name: Músicos y sus tormentos
 description: |
- Se dice que sólo los artistas y los niños ven la vida tal y como es... pues yo, quiero verla con sus ojos. Con este ciclo quiero que todos seamos esos niños y vivamos sus historias contadas desde su mundo, que aunque a veces trágico, no deja de ser mágico. Disfrutemos de los actores más pequeños siendo los más grandes protagonistas, y démosles un homenaje por su enorme aportación al cine.
- <br /><br />
- Ahora sí, a disfrutar como niños...
+ ¿Qué sería el cine sin la música? ¿Y la vida? Probablemente, infinitamente más tediosa. La música (y más acompañada de buenas historias) te puede hacer llegar al Nirvana y hacerte sentir "Queen" por un día. Os animo a que perdáis el Control cantando en la calle y que el Jazz y la batería os alejen de cualquier día "Angry".
 movies:
   - name:
     director:

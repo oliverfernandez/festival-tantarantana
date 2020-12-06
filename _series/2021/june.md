@@ -1,13 +1,11 @@
 ---
-object-id: serie_2021_january
+object-id: serie_2021_june
 edition-id: edition_2021
-label: Enero
-member-id: member_gaby
-name: ¡En un mundo de niños!
-description: |
- Se dice que sólo los artistas y los niños ven la vida tal y como es... pues yo, quiero verla con sus ojos. Con este ciclo quiero que todos seamos esos niños y vivamos sus historias contadas desde su mundo, que aunque a veces trágico, no deja de ser mágico. Disfrutemos de los actores más pequeños siendo los más grandes protagonistas, y démosles un homenaje por su enorme aportación al cine.
- <br /><br />
- Ahora sí, a disfrutar como niños...
+label: Junio
+member-id: member_alberto
+name: Como la vida misma (basado en hecho reales)
+description: >-
+ La realidad ha sido una fuente de inspiración para el séptimo arte narrando los relatos más inauditos y sorprendiendo con historias que debían de ser contadas. Con mi ciclo prometo que lograré que se os ponga la piel de gallina cuando penséis que lo que acabáis de ver, no es ficción, sino que sucedió en la realidad.
 movies:
   - name:
     director:
