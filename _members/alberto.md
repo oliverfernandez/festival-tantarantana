@@ -1,6 +1,6 @@
 ---
 object-id: member_alberto
-name: Alberto Martínez
+label: Alberto Martínez
 ---
 
 ### Pregunta

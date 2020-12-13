@@ -1,6 +1,6 @@
 ---
 object-id: member_cristina
-name: Cristina Pérez
+label: Cristina Pérez
 ---
 
 ### Pregunta

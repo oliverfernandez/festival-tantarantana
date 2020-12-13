@@ -1,6 +1,6 @@
 ---
 object-id: member_jordi
-name: Jordi García
+label: Jordi García
 ---
 
 ### Pregunta

@@ -1,6 +1,6 @@
 ---
 object-id: member_nuria
-name: Nuria Melero
+label: Nuria Melero
 ---
 
 ### Pregunta

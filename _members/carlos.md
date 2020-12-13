@@ -1,6 +1,6 @@
 ---
 object-id: member_carlos
-name: Carlos Alonso
+label: Carlos Alonso
 ---
 
 ### Pregunta

@@ -1,6 +1,6 @@
 ---
 object-id: member_vane
-name: Vanesa Gil
+label: Vanesa Gil
 ---
 
 ### Pregunta

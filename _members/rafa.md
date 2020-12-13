@@ -1,6 +1,6 @@
 ---
 object-id: member_rafa
-name: Rafael Guerrero
+label: Rafael Guerrero
 ---
 
 ### Pregunta

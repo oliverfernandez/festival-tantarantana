@@ -1,6 +1,6 @@
 ---
 object-id: member_gaby
-name: Gabriela Lozano
+label: Gabriela Lozano
 ---
 
 ### Pregunta

@@ -1,6 +1,6 @@
 ---
 object-id: member_aaron
-name: Aaron Manso
+label: Aaron Manso
 ---
 
 ### Pregunta

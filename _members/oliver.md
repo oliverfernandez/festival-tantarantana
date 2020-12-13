@@ -1,6 +1,6 @@
 ---
 object-id: member_oliver
-name: Óliver Fernández
+label: Óliver Fernández
 ---
 
 ### Pregunta
