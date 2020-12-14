@@ -27,7 +27,12 @@ El Festival de Tantarantana no sería posible sin su maravilloso jurado.
 	{% for editionMember in edition2021.members %}
 		{% assign member = site.members | where:"object-id", editionMember.member-id | first %}
 		<li class="edition--member tantarantana--grid-item">
-			<a class="edition--member__link" href="{{ member.url }}">{{ member.label }}</a>
+			<a class="edition--member__link" href="{{ member.url }}">
+				<img class="edition--member__photo" src="/assets/images/members/{{ member.object-id }}.jpg">
+				<div class="edition--member__name">
+					{{ member.label }}
+				</div>				
+			</a>
 		</li>
 	{% endfor %}
 </ul>
