@@ -13,6 +13,11 @@ h3 {
 	font-size: 20px;
 }
 
+hr {
+	height: 1px;
+	background: rgba(255, 204, 0, 0.3);
+}
+
 /* ************************** */
 
 #header {
@@ -174,6 +179,7 @@ section {
 	background: url("/assets/images/nav-bg.gif");
 	box-sizing: border-box;
 	text-align: center;
+	text-transform: uppercase;
 }
 
 /* ************************** */
@@ -238,3 +244,9 @@ section {
 
 /* ************************** */
 
+.member__photo {
+	margin-bottom: $verticalMargin;
+	height: 350px;
+	width: 100%;
+	object-fit: contain;
+}
