@@ -21,7 +21,7 @@ Como dirian en Cannes... *ya está aquí, y es hermosa*. Conoce mes a mes los ci
 
 De aquí y de allá. Amantes del cine clásico, el americano más comercial o el alternativo europeo. Algunos seguidores de las mentes más perturbadas del mundo del cine. Pero todos con un nexo común: su pasión por el cine. 
 
-El Festival de Tantarantana no sería posible sin su maravilloso jurado.
+El **Festival de Tantarantana** no sería posible sin su maravilloso jurado.
 
 <ul class="edition--members tantarantana--grid">
 	{% for editionMember in edition2021.members %}
