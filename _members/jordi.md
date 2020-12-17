@@ -9,11 +9,11 @@ Arte, manía, vicio, placer, viaje, experiencia, conocimiento; un universo de mu
 
 > ### ¿A qué director / actor / actriz entrevistarías? ¿Y con quién pasarías una noche... a solas?
 
-Director: David Lynch/Wim Wenders, Actor: Jack Nicholson, Actriz: Meryl Streep/Nicole Kidman. A solas: Natalie Portman.
+Director: David Lynch/Wim Wenders, Actor: Jack Nicholson, Actriz: Meryl Streep/Nicole Kidman. A solas: **Natalie Portman**.
 
 > ### ¿Qué película describe mejor tu vida?
 
-No diría tanto, pero una de las películas que más me han conmovido es Cinema Paradiso.
+No diría tanto, pero una de las películas que más me han conmovido es **Cinema Paradiso**.
 
 > ### ¿Qué película verías una y otra vez, y con cuál te dejaste de hablar con la persona que te la recomendó?
 

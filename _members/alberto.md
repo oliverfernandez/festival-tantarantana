@@ -9,13 +9,13 @@ El cine para mi es "desconexión", porque consigo ahuyentar otros pensamientos p
 
 > ### ¿A qué director / actor / actriz entrevistarías? ¿Y con quién pasarías una noche... a solas?
 
-Steven Spielberg porqué, sin duda, es quien me ha hecho pasar mejores momentos. 
+**Steven Spielberg** porqué, sin duda, es quien me ha hecho pasar mejores momentos. 
 
-Y pasaría una noche a solas con Scarlett Johansonn por su profundo conocimiento del mundo de la filatelia.
+Y pasaría una noche a solas con **Scarlett Johansonn** por su profundo conocimiento del mundo de la filatelia.
 
 > ### ¿Qué película describe mejor tu vida?
 
-A veces me he sentido un poco como Big Fish.
+A veces me he sentido un poco como **Big Fish**.
 
 > ### ¿Qué película verías una y otra vez, y con cuál te dejaste de hablar con la persona que te la recomendó?
 

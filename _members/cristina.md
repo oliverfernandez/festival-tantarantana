@@ -9,7 +9,7 @@ Mi pasión, mi mayor hobby y profesión. Mi sueño es hacer cine (en mi mundo ut
 
 > ### ¿A qué director / actor / actriz entrevistarías? ¿Y con quién pasarías una noche... a solas?
 
-Entrevistaría a Christopher Nolan y f**** (ups) con Marion Cotillard, Natalie Portman, Kristen Stewart, Kate Winslet, Leonardo di caprino, Matt Bomer, James Dean...
+Entrevistaría a **Christopher Nolan** y f**** (ups) con Marion Cotillard, Natalie Portman, Kristen Stewart, Kate Winslet, Leonardo di caprino, Matt Bomer, James Dean...
 
 > ### ¿Qué película describe mejor tu vida?
 

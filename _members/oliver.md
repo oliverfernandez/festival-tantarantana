@@ -11,14 +11,14 @@ Muchas cosas, pero me quedo con dos: una ventana al mundo que me permite descubr
 
 A cualquier actor, actriz o director con una larga trayectoria en el cine: Clint Eastwood, Susan Sarandon, Sigourney Weaver, Pedro Almodóvar, Michael Haneke, Steven Spielberg, Isabelle Huppert, Quentin Tarantino (este último me daría un poco de miedo...). Estoy seguro que cualquier peso pesado de la industria del cine ha vivido tantas experiencias, ha conocido a tantas personas, y vivido tantas situaciones emocionantes o excéntricas, que la conversación daría para horas y horas. Ojiplático estaría.
 
-Siempre he tenido una gran atracción por Clive Owen. Y aunque nunca le seleccionaron (un error imperdonable), por él me hubiera hecho fan de James Bond 😍
+Y para pasar una noche a solas, siempre he tenido una gran atracción por **Clive Owen**. Y aunque nunca le seleccionaron (un error imperdonable), por él me hubiera hecho fan de James Bond 😍
 
 > ### ¿Qué película describe mejor tu vida?
 
-Pues la verdad es que nunca me había preguntado "ezo"... Pero me voy a aventurar y decir Contact, de Robert Zemeckis. La ciencia, el espacio, soñar con los ojos abiertos, mirar al espacio y querer creer que hay algo más y que formamos parte de algo más grande... me representa. Y los aliens, por supuesto!!!
+Pues la verdad es que nunca me había preguntado "ezo"... Pero me voy a aventurar y decir **Contact**, de Robert Zemeckis. La ciencia, el espacio, soñar con los ojos abiertos, mirar al espacio y querer creer que hay algo más y que formamos parte de algo más grande... me representa. Y los aliens, por supuesto!!!
 
 > ### ¿Qué película verías una y otra vez, y con cuál te dejaste de hablar con la persona que te la recomendó?
 
-Hay una película que he visto cientos de veces: Mejor Imposible, de James L. Brooks. Me atrapa, y todas las veces que la he revisionado siempre la veo con una sonrisa en la cara.
+Hay una película que he visto cientos de veces: **Mejor Imposible**, de James L. Brooks. Me atrapa, y todas las veces que la he revisionado siempre la veo con una sonrisa en la cara.
 
-Por una película creo que nunca, pero diría que las discusiones alrededor del final de Perdidos levantaron más pasiones y rompieron más familias, que un "procés" de cuyo nombre no quiero acordarme...
+Por una película creo que nunca, pero diría que las discusiones alrededor del final de **Perdidos** levantaron más pasiones y rompieron más familias, que un "procés" de cuyo nombre no quiero acordarme...
