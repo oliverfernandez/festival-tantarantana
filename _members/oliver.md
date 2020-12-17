@@ -11,7 +11,7 @@ Muchas cosas, pero me quedo con dos: una ventana al mundo que me permite descubr
 
 A cualquier actor, actriz o director con una larga trayectoria en el cine: Clint Eastwood, Susan Sarandon, Sigourney Weaver, Pedro Almodóvar, Michael Haneke, Steven Spielberg, Isabelle Huppert, Quentin Tarantino (este último me daría un poco de miedo...). Estoy seguro que cualquier peso pesado de la industria del cine ha vivido tantas experiencias, ha conocido a tantas personas, y vivido tantas situaciones emocionantes o excéntricas, que la conversación daría para horas y horas. Ojiplático estaría.
 
-Siempre he tenido una gran atracción por Clive Owen. Aunque nunca le seleccionaron (un error imperdonable), por él me hubiera hecho fan de James Bond 😍
+Siempre he tenido una gran atracción por Clive Owen. Y aunque nunca le seleccionaron (un error imperdonable), por él me hubiera hecho fan de James Bond 😍
 
 > ### ¿Qué película describe mejor tu vida?
 
