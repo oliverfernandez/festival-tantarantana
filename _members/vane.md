@@ -1,6 +1,6 @@
 ---
 object-id: member_vane
-label: Vanesa Gil
+label: Vanessa Gil
 ---
 
 > ### ¿Qué es el cine para ti?
