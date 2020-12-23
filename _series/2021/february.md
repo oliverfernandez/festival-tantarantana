@@ -9,46 +9,46 @@ description: >-
  <br /><br />
  ¡Buenas tardes!
 movies:
-  - name:
-    director:
-    year:
+  - name: Spring Breakers
+    director: Harmony Korine
+    year: 2012
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: 
-  - name:
-    director:
-    year:
+      cover: https://pics.filmaffinity.com/spring_breakers-378058457-large.jpg
+      url: https://www.filmaffinity.com/es/film397256.html
+  - name: Solo Dios perdona
+    director: Nicolas Winding Refn
+    year: 2013
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: 
-  - name:
-    director:
-    year:
+      cover: https://pics.filmaffinity.com/only_god_forgives-922059164-large.jpg
+      url: https://www.filmaffinity.com/es/film121529.html
+  - name: Lost River
+    director: Ryan Gosling
+    year: 2013
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: 
-  - name:
-    director:
-    year:
+      cover: https://pics.filmaffinity.com/lost_river-953227341-large.jpg
+      url: https://www.filmaffinity.com/es/film638994.html
+  - name: The Neon Demon
+    director: Nicolas Winding Refn
+    year: 2016
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: 
-  - name:
-    director:
-    year:
+      cover: https://pics.filmaffinity.com/the_neon_demon-386448800-large.jpg
+      url: https://www.filmaffinity.com/es/film522774.html
+  - name: En realidad, nunca estuviste aquí
+    director: Lynne Ramsay
+    year: 2017
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: 
-  - name:
-    director:
-    year:
+      cover: https://pics.filmaffinity.com/you_were_never_really_here-262591094-large.jpg
+      url: https://www.filmaffinity.com/es/film865711.html
+  - name: Good Time
+    director: Ben Safdie, Joshua Safdie
+    year: 2017
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: 
-  - name:
-    director:
-    year:
+      cover: https://pics.filmaffinity.com/good_time-619780548-large.jpg
+      url: https://www.filmaffinity.com/es/film962795.html
+  - name: Lux Æterna
+    director: Gaspar Noé
+    year: 2019
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: 
+      cover: https://pics.filmaffinity.com/lux_aeterna-563932169-large.jpg
+      url: https://www.filmaffinity.com/es/film708765.html
 ---
