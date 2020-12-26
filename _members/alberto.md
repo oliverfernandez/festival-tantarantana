@@ -19,4 +19,4 @@ A veces me he sentido un poco como **Big Fish**.
 
 > ### ¿Qué película verías una y otra vez, y con cuál te dejaste de hablar con la persona que te la recomendó?
 
-Cinema Paradiso (Giuseppe Tornatore, 1988) y La Silla (J.D. Wallovits, 2006)... un coñazo mayúsculo
+**Cinema Paradiso** (Giuseppe Tornatore, 1988) y **La Silla** (J.D. Wallovits, 2006)... un coñazo mayúsculo
