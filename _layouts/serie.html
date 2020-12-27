@@ -2,11 +2,13 @@
 layout: default
 ---
 
-{% assign member = site.members | where:"object-id", page.member-id | first %}
-
 <h2 class="serie__name">{{ page.name }}</h2>
 
-<h3 class="serie__member"><a href="{{ member.url }}">{{ member.label }}</a></h3>
+{% if page.member-id %}
+	{% assign member = site.members | where:"object-id", page.member-id | first %}
+
+	<h3 class="serie__member"><a href="{{ member.url }}">{{ member.label }}</a></h3>
+{% endif %}
 
 <p class="serie__description">
 	{{ page.description }}

@@ -36,3 +36,7 @@ El **Festival de Tantarantana** no sería posible sin su maravilloso jurado.
 		</li>
 	{% endfor %}
 </ul>
+
+## Películas fuera de concurso
+
+¿Con ganas de más? [Pues échale un vistazo](/series/2021/out-of-competition.html) a las películas que se quedaron en el tintero

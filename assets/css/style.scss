@@ -159,6 +159,10 @@ section {
 
 /* ************************** */
 
+.edition--members {
+	margin-bottom: $verticalMargin;
+}
+
 .edition--member {
 	position: relative;
 	height: 300px;
@@ -214,7 +218,7 @@ section {
 }
 
 @media screen and (min-width: 600px) {
-	.serie--movie:last-child {
+	.serie--movie:nth-child(7):last-child {
 		grid-column-start: 2;
 	}
 }
