@@ -92,7 +92,9 @@ Todas las categorías a concurso cuentan con un total de 5 nominados cada una sa
 
 * Película
 
-* Premio especial de Tantarantana - Dirección
+* Premio especial de Tantarantana
+
+* Dirección
 
 * Guión original
 
