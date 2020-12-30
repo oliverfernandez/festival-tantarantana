@@ -27,46 +27,46 @@ description: |
   
   He de decir: <b>Hold My Beer</b>.
 movies:
-  - name:
-    director:
-    year:
+  - name: La invitación
+    director: Karyn Kusama
+    year: 2015
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: 
-  - name:
-    director:
-    year:
+      cover: https://pics.filmaffinity.com/the_invitation-305606357-large.jpg
+      url: https://www.filmaffinity.com/es/film779556.html
+  - name: Tres anuncios en las afueras
+    director: Martin McDonagh
+    year: 2017
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: 
-  - name:
-    director:
-    year:
+      cover: https://pics.filmaffinity.com/three_billboards_outside_ebbing_missouri-942175283-large.jpg
+      url: https://www.filmaffinity.com/es/film652266.html
+  - name: High Life
+    director: Claire Denis
+    year: 2018
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: 
-  - name:
-    director:
-    year:
+      cover: https://pics.filmaffinity.com/high_life-377871831-large.jpg
+      url: https://www.filmaffinity.com/es/film845770.html
+  - name: La perfección
+    director: Richard Shepard
+    year: 2018
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: 
-  - name:
-    director:
-    year:
+      cover: https://pics.filmaffinity.com/the_perfection-155936048-large.jpg
+      url: https://www.filmaffinity.com/es/film716699.html
+  - name: Jojo Rabbit
+    director: Taika Waititi
+    year: 2019
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: 
-  - name:
-    director:
-    year:
+      cover: https://pics.filmaffinity.com/jojo_rabbit-509852787-large.jpg
+      url: https://www.filmaffinity.com/es/film760663.html
+  - name: Swallow
+    director: Carlo Mirabella-Davis
+    year: 2019
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: 
-  - name:
-    director:
-    year:
+      cover: https://pics.filmaffinity.com/swallow-339742588-large.jpg
+      url: https://www.filmaffinity.com/es/film966343.html
+  - name: Possessor
+    director: Brandon Cronenberg
+    year: 2020
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: 
+      cover: https://pics.filmaffinity.com/possessor-364771251-large.jpg
+      url: https://www.filmaffinity.com/es/film879212.html
 ---
