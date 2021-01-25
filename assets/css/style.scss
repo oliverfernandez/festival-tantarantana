@@ -186,6 +186,12 @@ section {
 	text-transform: uppercase;
 }
 
+@media screen and (min-width: 600px) {
+	.edition--member:nth-child(10):last-child {
+		grid-column-start: 2;
+	}
+}
+
 /* ************************** */
 
 .serie--movies {
