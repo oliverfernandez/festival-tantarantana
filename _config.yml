@@ -35,6 +35,8 @@ collections:
     output: true
   series:
     output: true
+  movies:
+    output: true
 
 # To link collections with specific layouts
 defaults:
@@ -46,6 +48,10 @@ defaults:
       type: series
     values:
       layout: serie
+  - scope:
+      type: movies
+    values:
+      layout: movie
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
