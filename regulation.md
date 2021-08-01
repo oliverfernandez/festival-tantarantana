@@ -1,6 +1,7 @@
 ---
 layout: default
 label: Reglamento
+year: 2022
 ---
 
 <ul class="regulation--toc">
