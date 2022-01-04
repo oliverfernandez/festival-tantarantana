@@ -17,7 +17,7 @@ lang: es-ES
 title: FESTIVAL DE CINE TANTARANTANA
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  VIII Edición
+  IX Edición
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.festivaltantarantana.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: oliferna
@@ -46,6 +46,10 @@ defaults:
       type: series
     values:
       layout: serie
+  - scope:
+      type: editions
+    values:
+      layout: edition
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

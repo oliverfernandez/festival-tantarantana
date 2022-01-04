@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<h2>Ciclos</h2>
+
+<ul class="edition--series">
+	{% for editionSerie in page.series %}
+		{% assign serie = site.series | where:"object-id", editionSerie.serie-id | first %}
+		<li class="edition--serie">
+			<a class="edition--serie__link" href="{{ serie.url }}">{{ serie.label }}</a>
+		</li>
+	{% endfor %}
+</ul>
+
+<h2>Jurado</h2>
+
+<ul class="edition--members tantarantana--grid">
+	{% for editionMember in page.members %}
+		{% assign member = site.members | where:"object-id", editionMember.member-id | first %}
+		<li class="edition--member tantarantana--grid-item">
+			<a class="edition--member__link" href="{{ member.url }}">
+				<img class="edition--member__photo" src="/assets/images/members/{{ member.object-id }}.jpg">
+				<div class="edition--member__name">
+					{{ member.label }}
+				</div>				
+			</a>
+		</li>
+	{% endfor %}
+</ul>
+
+<h2>Premios</h2>
+Próximamente...

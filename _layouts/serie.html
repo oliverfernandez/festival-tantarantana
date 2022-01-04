@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% assign edition = site.editions | where:"object-id", page.edition-id | first %}
+
 <h2 class="serie__name">{{ page.name }}</h2>
 
 {% if page.member-id %}
