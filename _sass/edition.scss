@@ -1,0 +1,135 @@
+.edition--series {
+	list-style: none;
+	text-transform: uppercase;
+	font-size: 24px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	margin-bottom: $verticalMargin;
+	display: flex;
+	flex-direction: column;
+}
+
+.edition--serie {
+	padding: 15px;
+}
+
+.edition--serie:hover {
+	background-color: #e8e8e8;
+
+	.edition--serie__link {
+		color: #252525;
+	}		
+}
+
+@media screen and (min-width: 600px) {
+	.edition--series {
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.edition--serie {
+		writing-mode: vertical-lr;
+		transform: rotate(-135deg);
+	}
+	/*.edition--series {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr 1fr;
+		grid-template-rows: auto;
+		
+		grid-template-areas:
+			".  opening opening ."
+			"january february march april"
+			"may june july august"
+			"september october october november"
+			". closing closing .";
+	} 
+
+	.edition--serie:first-child {
+		grid-area: opening;
+	}
+
+	.edition--serie:nth-child(2) {
+		grid-area: january;
+	}
+
+	.edition--serie:nth-child(3) {
+		grid-area: february;
+	}
+
+	.edition--serie:nth-child(4) {
+		grid-area: march;
+	}
+
+	.edition--serie:nth-child(5) {
+		grid-area: april;
+	}
+
+	.edition--serie:nth-child(6) {
+		grid-area: may;
+	}
+
+	.edition--serie:nth-child(7) {
+		grid-area: june;
+	}
+
+	.edition--serie:nth-child(8) {
+		grid-area: july;
+	}
+
+	.edition--serie:nth-child(9) {
+		grid-area: august;
+	}
+
+	.edition--serie:nth-child(10) {
+		grid-area: september;
+	}
+
+	.edition--serie:nth-child(11) {
+		grid-area: october;
+	}
+
+	.edition--serie:nth-child(12) {
+		grid-area: november;
+	}
+
+	.edition--serie:last-child {
+		grid-area: closing;
+	}*/
+}
+
+/* ************************** */
+
+.edition--members {
+	margin-bottom: $verticalMargin;
+}
+
+.edition--member {
+	position: relative;
+	height: 300px;
+}
+
+.edition--member__photo {
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+}
+
+.edition--member__name {
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	right: 0;
+	padding: 10px;
+	background: url("/assets/images/nav-bg.gif");
+	box-sizing: border-box;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+@media screen and (min-width: 600px) {
+	.edition--member:nth-child(10):last-child {
+		grid-column-start: 2;
+	}
+}
