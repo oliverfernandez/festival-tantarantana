@@ -1,6 +1,6 @@
 ---
 object-id: member_marcos
-label: Marcos
+label: Marcos Lizarraga
 ---
 
 > ### ¿Qué es el cine para ti?

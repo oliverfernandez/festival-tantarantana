@@ -1,5 +1,6 @@
 ---
 layout: default
+label: VIII Edición
 ---
 
 {% assign edition2021 = site.editions | where:"object-id", "edition_2021"  | first %}
