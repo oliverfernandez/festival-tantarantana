@@ -37,11 +37,13 @@
 
       <section>
         <div id="title">
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          
           {% if page.label %}
             <h1>{{ page.label }}</h1>
-          {% endif %}                    
+          {% endif %}
+          
+          {% if page.sublabel %}
+            <p>{{ page.sublabel }}</p>
+          {% endif %}
         </div>
 
         {{ content }}

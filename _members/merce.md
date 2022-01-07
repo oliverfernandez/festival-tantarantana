@@ -1,6 +1,6 @@
 ---
 object-id: member_merce
-label: Mercè
+label: Mercè Tintó
 ---
 
 > ### ¿Qué es el cine para ti?
