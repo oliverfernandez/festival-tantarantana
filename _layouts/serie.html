@@ -32,12 +32,12 @@ layout: default
 	{% endfor %}
 </ul>
 
-<ul class="serie--edition">
+<ul class="tantarantana--menu serie--edition">
 	{% assign edition = site.editions | where:"object-id", page.edition-id | first %}
 	{% for editionSerie in edition.series %}
-		<li class="serie--edition--serie {% if editionSerie.serie-id == page.object-id %} serie--edition--serie__current {% endif %}">
+		<li class="tantarantana--menu--item serie--edition--serie {% if editionSerie.serie-id == page.object-id %} tantarantana--menu--item__current  serie--edition--serie__current {% endif %}">
 			{% assign serie = site.series | where:"object-id", editionSerie.serie-id | first %}
-			<a class="serie--edition--serie__link" href="{{ serie.url }}">{{ serie.label }}</a>
+			<a class="tantarantana--menu--link serie--edition--serie__link" href="{{ serie.url }}">{{ serie.label }}</a>
 		</li>
 	{% endfor %}
 </ul>

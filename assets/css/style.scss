@@ -18,6 +18,8 @@ hr {
 	background: rgba(255, 204, 0, 0.3);
 }
 
+@import "tantarantana_menu.scss";
+
 /* ************************** */
 
 #header {
@@ -104,29 +106,6 @@ section {
 @media screen and (min-width: 600px) {
 	.serie--movie:nth-child(7):last-child {
 		grid-column-start: 2;
-	}
-}
-
-.serie--edition {
-	margin: $verticalMargin 0 0 0;
-	padding: 0;
-	list-style: none;
-	width: 100%;
-	text-align: center;
-}
-
-.serie--edition--serie {
-	text-transform: uppercase;
-	display: inline;
-	padding: 5px 10px;
-	line-height: 30px;
-}
-
-.serie--edition--serie__current {
-	background-color: #e8e8e8;	
-
-	.serie--edition--serie__link {
-		color: #252525;
 	}
 }
 

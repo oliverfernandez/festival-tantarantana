@@ -31,10 +31,13 @@ theme: jekyll-theme-midnight
 collections:
   members:
     output: true
+    permalink: /jurado/:name
   editions:
     output: true
+    permalink: /ediciones/:name
   series:
     output: true
+    permalink: /ediciones/:path
 
 # To link collections with specific layouts
 defaults:

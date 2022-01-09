@@ -1,0 +1,8 @@
+
+<ul class="edition--menu tantarantana--menu">
+	{% for edition in site.editions %}
+		<li class="tantarantana--menu--item {% if edition.object-id == include.currentEditionId %} tantarantana--menu--item__current {% endif %}">
+			<a class="tantarantana--menu--link" href="{{ edition.url }}">{{ edition.name }}</a>
+		</li>
+	{% endfor %}	
+</ul>

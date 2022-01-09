@@ -1,0 +1,22 @@
+.tantarantana--menu {
+	margin: $verticalMargin 0 0 0;
+	padding: 0;
+	list-style: none;
+	width: 100%;
+	text-align: center;
+}
+
+.tantarantana--menu--item {
+	text-transform: uppercase;
+	display: inline;
+	padding: 5px 10px;
+	line-height: 30px;
+}
+
+.tantarantana--menu--item__current {
+	background-color: rgba(232, 232, 232, 0.8);	
+
+	.tantarantana--menu--link {
+		color: #252525;
+	}
+}
