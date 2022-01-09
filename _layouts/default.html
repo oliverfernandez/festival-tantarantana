@@ -35,7 +35,12 @@
 
     <div class="wrapper">
 
-      <section>
+      <section>  
+      
+        {% if page.edition-id %}
+          {% include edition_menu.html currentEditionId=page.edition-id %}
+        {% endif %}
+
         <div id="title">
           {% if page.label %}
             <h1>{{ page.label }}</h1>
