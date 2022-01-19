@@ -1,16 +1,16 @@
 ---
 layout: default
-label: VIII Edición
+label: IX Edición
 ---
 
-{% assign edition2021 = site.editions | where:"object-id", "edition_2021"  | first %}
+{% assign edition2022 = site.editions | where:"object-id", "edition_2022"  | first %}
 
-## La selección oficial 2021
+## La selección oficial del 2022...
 
-Como dirian en Cannes... *ya está aquí, y es hermosa*. Conoce mes a mes los ciclos del 2021, las motivaciones de sus autores, y qué películas participarán en cada ciclo
+...es un misterio. Este año practicaremos la emoción y quizás sea hasta ahora el año más diferente. Abrid vuestras mentes y dejaos llevar por esta aventura incierta. Así que... ¡pasajeros al tren!
 
 <ul class="edition--series">
-	{% for editionSerie in edition2021.series %}
+	{% for editionSerie in edition2022.series %}
 		{% assign serie = site.series | where:"object-id", editionSerie.serie-id | first %}
 		<li class="edition--serie">
 			<a class="edition--serie__link" href="{{ serie.url }}">{{ serie.label }}</a>
@@ -25,7 +25,7 @@ De aquí y de allá. Amantes del cine clásico, el americano más comercial o el
 El **Festival de Tantarantana** no sería posible sin su maravilloso jurado.
 
 <ul class="edition--members tantarantana--grid">
-	{% for editionMember in edition2021.members %}
+	{% for editionMember in edition2022.members %}
 		{% assign member = site.members | where:"object-id", editionMember.member-id | first %}
 		<li class="edition--member tantarantana--grid-item">
 			<a class="edition--member__link" href="{{ member.url }}">
@@ -37,7 +37,3 @@ El **Festival de Tantarantana** no sería posible sin su maravilloso jurado.
 		</li>
 	{% endfor %}
 </ul>
-
-## Películas fuera de concurso
-
-¿Con ganas de más? [Pues échale un vistazo](/series/2021/out-of-competition.html) a las películas que se quedaron en el tintero
