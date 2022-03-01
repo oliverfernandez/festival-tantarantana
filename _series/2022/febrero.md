@@ -5,7 +5,11 @@ label: Febrero
 member-id: member_magda
 name: Son de amores, amores que matan...
 description: |
-  El amor correspondido puede ser maravilloso, claro. Sin embargo, para mi no hay nada más romántico que una história de amores imposibles, plaónicos, inalcanzables...
+  Permítame la licencia de tomar prestadas estas líneas de esos maestros de la lírica de nuestro país que son Andy y Lucas, suelo ser bastante impulsiva y fueron sus palabras las que mejor presentaban mi ciclo para este año.
+  <br><br>
+  El amor correspondido puede ser maravilloso, claro. Sin embargo, para mí no hay nada más romántico que una historia de amores imposibles, platónicos, inalcanzables, que se dejaron pasar, que no pudieron ser, amores que se reencuentran, pasiones locas y fugaces.
+  <br><br>
+  Les invito a acompañarme en este viaje pasional y variado por el desamor. Amigos sensibles, preparen los kleenex.
 movies:
   - name: Cumbres borrascosas
     director: William Wyler
