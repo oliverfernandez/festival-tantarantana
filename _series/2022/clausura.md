@@ -3,6 +3,7 @@ object-id: serie_2022_closing
 edition-id: edition_2022
 label: Clausura
 member-id: member_jordi
+name: Annette
 movies:
     - name: Annette
       director: Leos Carax

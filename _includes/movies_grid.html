@@ -1,0 +1,14 @@
+<ul class="serie--movies tantarantana--grid">
+	{% for movie in include.movies %}
+		<li class="serie--movie tantarantana--grid-item">
+			<a href="{{ movie.filmaffinity.url }}" target="_blank">
+				<img class="serie--movie__cover" src="{{ movie.filmaffinity.cover }}">
+			</a>	
+			<div class="serie--movie--info">
+				<em class="serie--movie--info__director"> {{ movie.director }} </em>
+				<a class="serie--movie--info__name" href="{{ movie.filmaffinity.url }}" target="_blank"> {{ movie.name }} </a>
+				<small class="serie--movie--info__year"> {{ movie.year }} </small>
+			</div>				
+		</li>
+	{% endfor %}
+</ul>

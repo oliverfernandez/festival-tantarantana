@@ -19,3 +19,10 @@ No me he planteado nunca ni encuentro qué película podría definir mi vida. Pe
 > ### ¿Qué película verías una y otra vez, y con cuál te dejaste de hablar con la persona que te la recomendó?
 
 Vería una y otra vez la maravillosa Drive y me dejé de hablar con una persona cuando me recomendaron ir a ver las 5 putas películas del vampiro paliducho de **Crepúsculo**. Y sí, las he visto todas y cada una de ellas, sorry...
+
+> ### ¿Qué os ha aportado Tantarantana hasta ahora?
+
+Me ha aportado opiniones diferentes y salir de la zona de confort viendo cine que jamás reproduciría por mis medios. ¡Buenas joyas he descubierto!
+
+> ### ¿Qué os motiva para seguir formando parte del festival?
+Pues sería un poco más de lo mismo de lo comentado anteriormente. Al final el cine es genial, pero compartirlo lo es mucho más.

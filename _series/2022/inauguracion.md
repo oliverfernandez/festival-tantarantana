@@ -3,6 +3,7 @@ object-id: serie_2022_opening
 edition-id: edition_2022
 label: Inauguración
 member-id: member_jordi
+name: Benedetta
 movies:
     - name: Benedetta
       director: Paul Verhoeven

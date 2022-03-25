@@ -22,3 +22,19 @@ Pues diría que a estas alturas, **Amelie** de  Jean-Pierre Jeunet. Me considero
 **Cumbres Borrascosas** de William Wyler, recuerdo verla desde pequeña en casa de mi abuela y no me cansa en absoluto. Ay, las cosas del querer!   
 
 Suelo ser yo la que recomienda y tengo problemas en recordar malas películas, las olvido 😛 Si me tengo que escoger algo maluncio, diría **Dr. Dolittle** con Eddie Murphy.
+
+> ### ¿Qué os ha aportado Tantarantana hasta ahora?
+
+La primera, alimentar mi pasión por el cine agregando conocimiento técnico, algo de que carecía completamente y que empiezo a detectar y analizar de manera natural. Los debates que se generan son muy interesantes y gracias a ello he conseguido también ampliar mi vocabulario cinéfilo.
+
+También riqueza, estoy descubriendo títulos que de otra manera no hubiera visionado. Gracias al “método Tantarantana” veo películas de estilos opuestos a mis principales gustos, la diversidad está presente y eso me encanta. Disciplinarme para ver 7 películas al mes es ideal para mi, que soy un poquito perezosa y tiendo a procrastinar.
+
+Por último y no menos importante, me ha aportado sentido de comunidad. Siento que pertenezco a algo especial, selecto pero inclusivo donde me siento valorada y respetada. Además como se dice en Casablanca “este es el inicio de una gran amistad”
+
+> ### ¿Qué os motiva para seguir formando parte del festival?
+
+¿Con todo lo que acabo de mencionar crees que debo decir algo más?
+
+Jajaja, bromas aparte. Deseo aprender más de todos los miembros de Tantarantana, me intriga intentar adivinar que nuevas pelis veremos y que escogeremos. Todos tenemos un estilo muy personal en cine y también a la hora de escribir y cada uno a su manera me resulta rico y entrañable.
+
+Me da la vida ver los debates que se pueden llegar a crear un martes a primera hora del día o un jueves por la tarde. Cuando se trata de tu ciclo, esperas nervios@ ver que opinan los demás de él

@@ -22,3 +22,11 @@ Pues la verdad es que nunca me había preguntado "ezo"... Pero me voy a aventura
 Hay una película que he visto cientos de veces: **Mejor Imposible**, de James L. Brooks. Me atrapa, y todas las veces que la he revisionado siempre la veo con una sonrisa en la cara.
 
 Por una película creo que nunca, pero diría que las discusiones alrededor del final de **Perdidos** levantaron más pasiones y rompieron más familias, que un "procés" de cuyo nombre no quiero acordarme...
+
+> ### ¿Cómo empezásteis Tantarantana? 
+
+La idea original fue de Carlos, y una de las primeras actividades que empezamos a hacer la primera vez que empezamos a vivir juntos. El cine siempre ha estado presente en nuestras conversaciones, y “oficializarlo” con una especie de festival de cine nos pareció una manera excelente de no solo seguir cultivando el buen hábito de ver cine, sino también de empujarnos (sobretodo a mi) fuera del area de comfort cinematográfico y atreverse con todo tipo cine.
+
+> ### ¿Cómo os sentís con la evolución y cambios que ha tenido hasta ahora?
+
+Al menos por mi parte, contentísimo. Pienso en la primera edición que hicimos, donde todo se hacía en papel, los ciclos se decidían mes a mes, todo sobre papel... Y veo que ahora somos 10 personas en el jurado, el festival tiene una web, con una organización y reglas “serias”. ¡Esto es maravilloso!

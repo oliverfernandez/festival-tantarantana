@@ -22,3 +22,11 @@ Actor con quien pasar una noche: **Hugh Jackman**. Me muerooooo! Además de guap
 Vería una y otra vez **NÁUFRAGO** porqué todos en algún momento nos hemos sentido así de perdidos y es una hermosa historia que inspira a seguir, siempre seguir. 
 
 Y no me la recomendaron pero **A STAR IS BORN** me provocó enfado. Pocas veces salgo del cine con mala sensación y esta peli me hizo sentir idiota, una tomadura de pelo.
+
+> ### ¿Qué os ha aportado Tantarantana hasta ahora?
+
+Tantarantana me ha aportado sobre todo gente extraordinaria, apasionada por el cine y divertida, a quienes considero mis amigos. Me encanta tenerlos en mi vida.
+
+> ### ¿Qué os motiva para seguir formando parte del festival?
+
+Me motiva seguir porque además de que me encanta ver películas, aprendo mucho de cine, descubro cosas que no descubriría por mí misma y porque Tantarantana es un vicio!!!

@@ -12,10 +12,21 @@ layout: default
 
 <hr />
 
-<h2>Películas presentadas en Tantarantana</h2>
-<p><i>Próximamente...</i></p>
+{% assign memberSeries = site.series | where:"member-id", page.object-id | sort: "edition-id" | reverse %}
+
+<h2>Ediciones en Tantarantana</h2>
+
+{% for memberSerie in memberSeries %}
+	{% assign serieEdition = site.editions | where:"object-id", memberSerie.edition-id | first %}
+	<p>{{ memberSerie.label }} {{ serieEdition.name }} - <a href="{{ memberSerie.url }}">{{ memberSerie.name }}</a></p>	
+{% endfor %}
 
 <hr />
 
-<h2>Ediciones en Tantarantana</h2>
-<p><i>Próximamente...</i></p>
+<h2>Películas presentadas en Tantarantana</h2>
+{% assign memberMovies = "" | split: "" %}
+{% for memberSerie in memberSeries %}
+	{% assign memberMovies = memberMovies | concat: memberSerie.movies %}
+{% endfor %}
+{% assign memberMovies = memberMovies | sort: "name" %}
+{% include movies_grid.html movies=memberMovies %}
