@@ -37,3 +37,11 @@ El **Festival de Tantarantana** no sería posible sin su maravilloso jurado.
 		</li>
 	{% endfor %}
 </ul>
+
+## Anteriormente en Tantarantana...
+
+Conoce todo lo que ha dado de si el festival echando un vistazo a ediciones pasadas
+
+<div class="editions--history">
+	{% include edition_menu.html %}
+</div>
