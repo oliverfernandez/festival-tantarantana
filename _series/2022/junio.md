@@ -16,8 +16,8 @@ movies:
       cover: https://pics.filmaffinity.com/limelight-924434845-large.jpg
       url: https://www.filmaffinity.com/es/film186605.html
   - name: El verdugo
-    director: 1963
-    year: Luis García Berlanga
+    director: Luis García Berlanga
+    year: 1963
     filmaffinity:
       cover: https://pics.filmaffinity.com/el_verdugo-632789770-large.jpg
       url: https://www.filmaffinity.com/es/film411856.html
