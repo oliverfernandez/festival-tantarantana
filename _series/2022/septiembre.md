@@ -1,7 +1,7 @@
 ---
 object-id: serie_2022_september
 edition-id: edition_2022
-label: Setiembre
+label: Septiembre
 member-id: member_cristina
 name: El futuro está aquí
 description: |
