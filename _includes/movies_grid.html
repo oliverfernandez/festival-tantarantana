@@ -7,7 +7,11 @@
 		{% endif %}
 
 		<li class="serie--movie tantarantana--grid-item">
+		{% if movie.movie-id %}
+			<a href="{{ movieToRender.url }}">
+		{% else %}
 			<a href="{{ movieToRender.filmaffinity.url }}" target="_blank">
+		{% endif %}		
 				<img class="serie--movie__cover" src="{{ movieToRender.filmaffinity.cover }}">
 			</a>	
 			<div class="serie--movie--info">

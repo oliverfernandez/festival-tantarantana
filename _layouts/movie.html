@@ -4,7 +4,10 @@ layout: default
 
 {% assign movieSerie = site.series | where:"object-id", page.serie-id | first %}
 {% assign movieEdition = site.editions | where:"object-id", movieSerie.edition-id | first %}
-{% assign movieMember = site.members | where:"object-id", movieSerie.member-id | first %}
+
+{% if movieSerie.member-id  %}
+	{% assign movieMember = site.members | where:"object-id", movieSerie.member-id | first %}
+{% endif %}	
 
 <div class="movie--filmaffinity">
 	<img class="movie--filmaffinity__cover" src="{{ page.filmaffinity.cover }}">
@@ -36,7 +39,13 @@ layout: default
 
 <dl class="movie--tantarantana__details movie--table">
 	<dt>Miembro Jurado</dt>
-	<dd><a href="{{ movieMember.url }}">{{movieMember.label}}</a></dd>
+	<dd>
+		{% if movieMember %}
+			<a href="{{ movieMember.url }}">{{movieMember.label}}</a>
+		{% else %}
+			👻
+		{% endif %}			
+	</dd>
 
 	<dt>Año</dt>
 	<dd><a href="{{ movieEdition.url }}">{{movieEdition.name}}</a></dd>
