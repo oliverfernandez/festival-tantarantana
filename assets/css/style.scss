@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 $verticalMargin: 40px;
+$horizontalMargin: 15px;
 
 h2 {
 	font-size: 28px;
@@ -71,6 +72,10 @@ section {
 /* ************************** */
 
 @import 'edition.scss';
+
+/* ************************** */
+
+@import 'movie_layout.scss';
 
 /* ************************** */
 

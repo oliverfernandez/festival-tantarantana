@@ -1,5 +1,5 @@
 ---
-object-id: serie_2022_april
+object-id: serie_2022_abril
 edition-id: edition_2022
 label: Abril
 member-id: member_merce
@@ -17,46 +17,11 @@ description: |
   <br><br>
   Personalmente me fascinan este tipo de historias y es por eso que he escogido este tema.</i>
 movies:
-  - name: Vivir (Ikiru)
-    director: Akira Kurosawa
-    year: 1952
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/ikiru-577231419-large.jpg
-      url: https://www.filmaffinity.com/es/film246184.html
-  - name: El proceso
-    director: Orson Welles
-    year: 1962
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/the_trial_le_proces-989740796-large.jpg
-      url: https://www.filmaffinity.com/es/film134411.html
-  - name: Cómo ser John Malkovich
-    director: Spike Jonze
-    year: 1999
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/being_john_malkovich-576254491-large.jpg
-      url: https://www.filmaffinity.com/es/film333264.html
-  - name: American Splendor
-    director: Robert Pucini
-    year: 1003
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/american_splendor-880937073-large.jpg
-      url: https://www.filmaffinity.com/es/film983166.html
-  - name: Mas extraño que la ficción
-    director: Marc Forster
-    year: 2006
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/stranger_than_fiction-794440038-large.jpg
-      url: https://www.filmaffinity.com/es/film931318.html
-  - name: Under the skin
-    director: Jonathan Glazer
-    year: 2013
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/under_the_skin-636672743-large.jpg
-      url: https://www.filmaffinity.com/es/film189028.html
-  - name: Regreso a Hope Gap
-    director: William Nicholson
-    year: 2019
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/hope_gap-348076179-large.jpg
-      url: https://www.filmaffinity.com/es/film956950.html
+  - movie-id: https://www.filmaffinity.com/es/film246184.html
+  - movie-id: https://www.filmaffinity.com/es/film134411.html
+  - movie-id: https://www.filmaffinity.com/es/film333264.html
+  - movie-id: https://www.filmaffinity.com/es/film983166.html
+  - movie-id: https://www.filmaffinity.com/es/film931318.html
+  - movie-id: https://www.filmaffinity.com/es/film189028.html
+  - movie-id: https://www.filmaffinity.com/es/film956950.html
 ---

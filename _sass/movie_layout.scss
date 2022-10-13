@@ -1,0 +1,40 @@
+.movie--table {
+	display: grid;
+	row-gap: 10px;
+	align-content: start;
+}
+
+.movie--table dt {
+	grid-column-start: 1;
+}
+
+.movie--table dd {
+	grid-column-start: 2;
+}
+
+.movie--filmaffinity {
+	display: flex;
+	flex-direction: column;
+	padding-bottom: $verticalMargin;
+	gap: $horizontalMargin;
+}
+
+@media screen and (min-width: 600px) {
+	.movie--filmaffinity {
+		flex-direction: row;
+	}
+}
+
+.movie--filmaffinity__cover {
+	flex-grow: 1;
+	object-fit: contain;
+	height: 300px;
+}
+
+.movie--filmaffinity__details {
+	flex-grow: 2;
+}
+
+.movie--tantarantana__details {
+	padding-bottom: $verticalMargin;
+}

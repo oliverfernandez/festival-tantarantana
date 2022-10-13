@@ -1,5 +1,5 @@
 ---
-object-id: serie_2022_may
+object-id: serie_2022_mayo
 edition-id: edition_2022
 label: Mayo
 member-id: member_rafa
@@ -13,46 +13,11 @@ description: |
   <br><br>
   Hay muchas películas de este ciclo a las que pillo con muchas ganas y espero que os gusten!
 movies:
-  - name: La marca del Zorro
-    director: Fred Niblo
-    year: 1920
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/the_mark_of_zorro-203961706-mmed.jpg
-      url: https://www.filmaffinity.com/es/film750438.html
-  - name: El hombre que ríe
-    director: Paul Leni
-    year: 1928
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/the_man_who_laughs-292624947-mmed.jpg
-      url: https://www.filmaffinity.com/es/film207881.html
-  - name: El conde de  Montecristo
-    director: Rowland V. Lee
-    year: 1934
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/the_count_of_monte_cristo-667537874-mmed.jpg
-      url: https://www.filmaffinity.com/es/film692595.html
-  - name: El zurdo
-    director: Arthur Penn
-    year: 1958
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/the_left_handed_gun-926232125-mmed.jpg
-      url: https://www.filmaffinity.com/es/film556266.html
-  - name: Los inmortales
-    director: Russell Mulcahy
-    year: 1986
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/highlander-639407404-mmed.jpg
-      url: https://www.filmaffinity.com/es/film885273.html
-  - name: Top Gun
-    director: Tony Scott
-    year: 1986
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/top_gun-784306900-mmed.jpg
-      url: https://www.filmaffinity.com/es/film383203.html
-  - name: El cuervo
-    director: Alex Proyas
-    year: 1994
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/the_crow-267449742-mmed.jpg
-      url: https://www.filmaffinity.com/es/film983299.html
+  - movie-id: https://www.filmaffinity.com/es/film750438.html
+  - movie-id: https://www.filmaffinity.com/es/film207881.html
+  - movie-id: https://www.filmaffinity.com/es/film692595.html
+  - movie-id: https://www.filmaffinity.com/es/film556266.html
+  - movie-id: https://www.filmaffinity.com/es/film885273.html
+  - movie-id: https://www.filmaffinity.com/es/film383203.html
+  - movie-id: https://www.filmaffinity.com/es/film983299.html
 ---

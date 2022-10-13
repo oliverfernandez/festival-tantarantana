@@ -34,6 +34,9 @@ El **Festival de Tantarantana** no sería posible sin su maravilloso jurado.
 					{{ member.label }}
 				</div>				
 			</a>
+			{% if edition2022.presidents-id contains member.object-id %}
+				<img class="edition--members__president_badge" src="/assets/images/badge.png" title="President">
+			{% endif %}
 		</li>
 	{% endfor %}
 </ul>

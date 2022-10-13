@@ -1,5 +1,5 @@
 ---
-object-id: serie_2022_july
+object-id: serie_2022_julio
 edition-id: edition_2022
 label: Julio
 member-id: member_marcos
@@ -14,46 +14,11 @@ description: |
   <br><br>
   Propongo un ciclo con aquellas producciones que ya sean por su desenlace o por el modo en el que transcurre te dejan con una inevitable sensación de alegría y así las recuerdas.
 movies:
-  - name: Gato negro, gato blanco
-    director: Emir Kusturica
-    year: 1998
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/crna_macka_beli_macor_black_cat_white_cat-588034129-large.jpg
-      url: https://www.filmaffinity.com/es/film504081.html
-  - name: The End of the F***ing World (01x05)
-    director: Jonathan Entwistle & Cia
-    year: 2017
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/the_end_of_the_f_ing_world-750078085-mmed.jpg
-      url: https://www.filmaffinity.com/es/film566155.html
-  - name: Up
-    director: Peter Docter, Bob Peterson 
-    year: 2009
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/up-672315222-mmed.jpg
-      url: https://www.filmaffinity.com/es/film777460.html
-  - name: El imaginario del Doctor Parnassus
-    director: Terry Gilliam
-    year: 2009
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/the_imaginarium_of_doctor_parnassus-158531939-mmed.jpg
-      url: https://www.filmaffinity.com/es/film259193.html
-  - name: Playtime
-    director: Jacques Tati
-    year: 1967
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/playtime_play_time-818051972-large.jpg
-      url: https://www.filmaffinity.com/es/film475746.html
-  - name: Esperando la carroza
-    director: Alejandro Doria
-    year: 1985
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/esperando_la_carroza-675954190-large.jpg
-      url: https://www.filmaffinity.com/es/film512185.html
-  - name: El espejo
-    director: Jafar Panahi
-    year: 1997
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/ayneh-310734898-large.jpg
-      url: https://www.filmaffinity.com/es/film136532.html
+  - movie-id: https://www.filmaffinity.com/es/film504081.html
+  - movie-id: https://www.filmaffinity.com/es/film566155.html
+  - movie-id: https://www.filmaffinity.com/es/film777460.html
+  - movie-id: https://www.filmaffinity.com/es/film259193.html
+  - movie-id: https://www.filmaffinity.com/es/film475746.html
+  - movie-id: https://www.filmaffinity.com/es/film512185.html
+  - movie-id: https://www.filmaffinity.com/es/film136532.html
 ---

@@ -1,5 +1,5 @@
 ---
-object-id: serie_2021_july
+object-id: serie_2021_julio
 edition-id: edition_2021
 label: Julio
 member-id: member_jordi
@@ -44,46 +44,11 @@ description: |
  años, que casi únicamente veía este tipo de películas. Me enganché. Espero
  que lo disfrutemos.
 movies:
-  - name: Almas desnudas
-    director: Max Ophüls
-    year: 1949
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/the_reckless_moment-999576725-large.jpg
-      url: https://www.filmaffinity.com/es/film530146.html
-  - name: En un lugar solitario
-    director: Nicholas Ray
-    year: 1950
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/in_a_lonely_place-970582599-large.jpg
-      url: https://www.filmaffinity.com/es/film600487.html
-  - name: Los sobornados
-    director: Fritz Lang
-    year: 1953
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/the_big_heat-946298577-large.jpg
-      url: https://www.filmaffinity.com/es/film718330.html
-  - name: Agente especial
-    director: Joseph H. Lewis
-    year: 1955
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/the_big_combo-778551133-large.jpg
-      url: https://www.filmaffinity.com/es/film186545.html
-  - name: El beso mortal
-    director: Robert Aldrich
-    year: 1955
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/kiss_me_deadly-479495142-large.jpg
-      url: https://www.filmaffinity.com/es/film102161.html
-  - name: Sed de mal
-    director: Orson Welles
-    year: 1958
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/touch_of_evil-458868040-large.jpg
-      url: https://www.filmaffinity.com/es/film127610.html
-  - name: Yakuza
-    director: Sydney Pollack
-    year: 1974
-    filmaffinity:
-      cover: https://pics.filmaffinity.com/the_yakuza-843486625-large.jpg
-      url: https://www.filmaffinity.com/es/film991550.html
+  - movie-id: https://www.filmaffinity.com/es/film530146.html
+  - movie-id: https://www.filmaffinity.com/es/film600487.html
+  - movie-id: https://www.filmaffinity.com/es/film718330.html
+  - movie-id: https://www.filmaffinity.com/es/film186545.html
+  - movie-id: https://www.filmaffinity.com/es/film102161.html
+  - movie-id: https://www.filmaffinity.com/es/film127610.html
+  - movie-id: https://www.filmaffinity.com/es/film991550.html
 ---

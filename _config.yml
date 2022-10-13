@@ -38,6 +38,9 @@ collections:
   series:
     output: true
     permalink: /ediciones/:path
+  movies:
+    output: true
+    permalink: /peliculas/:path
 
 # To link collections with specific layouts
 defaults:
@@ -53,15 +56,21 @@ defaults:
       type: editions
     values:
       layout: edition
+  - scope:
+      type: movies
+    values:
+      layout: movie
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - tantarantana-cli/
+  - _site

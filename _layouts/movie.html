@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+{% assign movieSerie = site.series | where:"object-id", page.serie-id | first %}
+{% assign movieEdition = site.editions | where:"object-id", movieSerie.edition-id | first %}
+{% assign movieMember = site.members | where:"object-id", movieSerie.member-id | first %}
+
+<div class="movie--filmaffinity">
+	<img class="movie--filmaffinity__cover" src="{{ page.filmaffinity.cover }}">
+
+	<dl class="movie--filmaffinity__details movie--table">
+		<dt>Año</dt>
+		<dd>{{page.year}}</dd>
+
+		<dt>Director</dt>
+		<dd>{{page.director}}</dd>
+
+		<dt>País</dt>
+		<dd>{{page.country}}</dd>		
+
+		<dt>Reparto</dt>
+		<dd>{{page.cast}}</dd>
+
+		<dt>Sinopsis</dt>
+		<dd>{{page.synopsis}}</dd>
+
+		<dt><a href="{{ page.filmaffinity.url }}" target="_blank">Filmaffinity</a></dt>
+		<dd></dd>
+	</dl>
+
+	
+</div>
+
+<h2>Tantarantana</h2>
+
+<dl class="movie--tantarantana__details movie--table">
+	<dt>Miembro Jurado</dt>
+	<dd><a href="{{ movieMember.url }}">{{movieMember.label}}</a></dd>
+
+	<dt>Año</dt>
+	<dd><a href="{{ movieEdition.url }}">{{movieEdition.name}}</a></dd>
+
+	<dt>Ciclo</dt>
+	<dd><a href="{{ movieSerie.url }}">{{movieSerie.name}}</a></dd>
+</dl>
+
+{% if page.awards %}
+	<h2>Premios</h2>
+
+{% endif %}

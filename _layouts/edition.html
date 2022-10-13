@@ -25,6 +25,9 @@ layout: default
 					{{ member.label }}
 				</div>				
 			</a>
+			{% if page.presidents-id contains member.object-id %}
+				<img class="edition--members__president_badge" src="/assets/images/badge.png" title="President">
+			{% endif %}
 		</li>
 	{% endfor %}
 </ul>

@@ -1,13 +1,23 @@
 <ul class="serie--movies tantarantana--grid">
 	{% for movie in include.movies %}
+		{% assign movieToRender = movie %}
+
+		{% if movie.movie-id %}
+			{% assign movieToRender = site.movies | where:"object-id", movie.movie-id | first %}
+		{% endif %}
+
 		<li class="serie--movie tantarantana--grid-item">
-			<a href="{{ movie.filmaffinity.url }}" target="_blank">
-				<img class="serie--movie__cover" src="{{ movie.filmaffinity.cover }}">
+			<a href="{{ movieToRender.filmaffinity.url }}" target="_blank">
+				<img class="serie--movie__cover" src="{{ movieToRender.filmaffinity.cover }}">
 			</a>	
 			<div class="serie--movie--info">
-				<em class="serie--movie--info__director"> {{ movie.director }} </em>
-				<a class="serie--movie--info__name" href="{{ movie.filmaffinity.url }}" target="_blank"> {{ movie.name }} </a>
-				<small class="serie--movie--info__year"> {{ movie.year }} </small>
+				<em class="serie--movie--info__director"> {{ movieToRender.director }} </em>
+				{% if movie.movie-id %}
+					<a class="serie--movie--info__name" href="{{ movieToRender.url }}" target="_self"> {{ movieToRender.name }} </a>
+				{% else %}
+					<a class="serie--movie--info__name" href="{{ movieToRender.filmaffinity.url }}" target="_blank"> {{ movieToRender.name }} </a>
+				{% endif %}				
+				<small class="serie--movie--info__year"> {{ movieToRender.year }} </small>
 			</div>				
 		</li>
 	{% endfor %}

@@ -5,10 +5,5 @@ label: Clausura
 member-id: member_jordi
 name: Annette
 movies:
-    - name: Annette
-      director: Leos Carax
-      year: 2021
-      filmaffinity:
-        url: https://www.filmaffinity.com/es/film772027.html
-        cover: https://pics.filmaffinity.com/annette-311409480-large.jpg
+    - movie-id: https://www.filmaffinity.com/es/film772027.html
 ---

@@ -5,10 +5,5 @@ label: Clausura
 member-id: member_carlos
 name: Bacurau
 movies:
-    - name: Bacurau
-      director: Kleber Mendonça Filho, Juliano Dornelles
-      year: 2019
-      filmaffinity:
-        url: https://www.filmaffinity.com/es/film507152.html
-        cover: https://pics.filmaffinity.com/bacurau-767267948-large.jpg
+    - movie-id: https://www.filmaffinity.com/es/film507152.html
 ---

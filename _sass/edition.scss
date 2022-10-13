@@ -132,6 +132,13 @@
 	text-transform: uppercase;
 }
 
+.edition--members__president_badge {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 40px;
+}
+
 @media screen and (min-width: 600px) {
 	.edition--member:nth-child(10):last-child {
 		grid-column-start: 2;
