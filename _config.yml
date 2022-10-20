@@ -41,6 +41,9 @@ collections:
   movies:
     output: true
     permalink: /peliculas/:path
+  awards:
+    output: false
+    permalink: /premios/:name
 
 # To link collections with specific layouts
 defaults:

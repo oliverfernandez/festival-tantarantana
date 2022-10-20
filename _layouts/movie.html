@@ -54,7 +54,46 @@ layout: default
 	<dd><a href="{{ movieSerie.url }}">{{movieSerie.name}}</a></dd>
 </dl>
 
-{% if page.awards %}
-	<h2>Premios</h2>
 
+
+{% assign movieAwards = '' | split: '' %}
+{% assign movieNominationsHtml = '' | split: '' %}
+{% for editionAward in movieEdition.awards %}
+	{% if editionAward.winner.movie-id == page.object-id %}
+		{% assign movieAwards = movieAwards | push: editionAward %}
+	{% endif %}
+
+	{% for awardFinalist in editionAward.finalists %}
+		{% if awardFinalist.movie-id == page.object-id %}
+			{% capture movieNomationTitleHtml %}
+				{% assign nominationAwardObject = site.awards | where:"object-id", editionAward.award-id | first %}
+				<h3 class="movie--nomination__label">
+					{{nominationAwardObject.label}}
+				</h3>
+				{% if awardFinalist.label %}
+				<h4 class="movie--nomination__label">
+					<a href="{{ page.url }}">
+						{{ awardFinalist.label }}
+					</a>
+				</h4>
+				{% endif %}
+			{% endcapture %}
+			{% assign movieNominationsHtml = movieNominationsHtml | push: movieNomationTitleHtml %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
+{% if movieAwards.size > 0 %}
+	<h2>Palmarés</h2>
+	{% for movieAward in movieAwards %}
+		{% include award.html editionAward=movieAward showWinnerName=false showWinnerPhoto=false showFinalists=false %}
+	{% endfor %}
+{% endif %}
+
+
+{% if movieNominationsHtml.size > 0 %}
+	<h2>Nominaciones</h2>
+	{% for movieNominationHtml in movieNominationsHtml %}
+		{{ movieNominationHtml }}
+	{% endfor %}
 {% endif %}

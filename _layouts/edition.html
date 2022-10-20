@@ -34,24 +34,7 @@ layout: default
 
 {% if page.awards %}
 	<h2>Palmarés</h2>
-	{% for award in page.awards %}
-		<div class="edition--award">
-			<div class="edition--award__header">
-				<img class="edition--award__logo" src="/assets/images/award-logo-left.png">
-				<h3 class="edition--award__name">{{ award.name }}</h3>
-				<img class="edition--award__logo" src="/assets/images/award-logo-right.png">
-			</div>
-			<div class="edition--award__body">
-				<img class="edition--award__photo" src="{{ award.photo }}">
-				<h4 class="edition--award__winner">{{ award.winner }}</h4>
-			</div>
-			{% if award.finalists %}
-				<div class="edition--award__footer">
-					{% for finalist in award.finalists %}
-						<h4 class="edition--award__finalist">{{ finalist.name }}</h4>
-					{% endfor %}
-				</div>
-			{% endif %}
-		</div>
+	{% for editionAward in page.awards %}
+		{% include award.html editionAward=editionAward showWinnerName=true showWinnerPhoto=true showFinalists=true %}
 	{% endfor %}
 {% endif %}

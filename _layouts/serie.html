@@ -18,6 +18,52 @@ layout: default
 
 {% include movies_grid.html movies=page.movies %}
 
+{% assign serieAwards = '' | split: '' %}
+{% assign serieNominationsHtml = '' | split: '' %}
+{% for editionAward in edition.awards %}
+	{% for serieMovie in page.movies %}
+		{% if editionAward.winner.movie-id == serieMovie.movie-id %}
+			{% assign serieAwards = serieAwards | push: editionAward %}
+		{% endif %}
+
+		{% for editionFinalist in editionAward.finalists %}
+			{% if editionFinalist.movie-id == serieMovie.movie-id %}
+				{% capture serieNomationTitleHtml %}
+					{% assign nominationAwardObject = site.awards | where:"object-id", editionAward.award-id | first %}
+					{% assign nominationMovieObject = site.movies | where:"object-id", serieMovie.movie-id | first %}
+					<h3 class="serie--nomination__label">
+						{{ nominationAwardObject.label }}						
+					</h3>
+					<h4 class="serie--nomination__label">
+						<a href="{{ nominationMovieObject.url }}">							
+							{{ nominationMovieObject.label }}
+							{% if editionFinalist.label %}
+								-
+								{{ editionFinalist.label }}
+							{% endif %}
+						</a>
+					</h4>
+				{% endcapture %}
+				{% assign serieNominationsHtml = serieNominationsHtml | push: serieNomationTitleHtml %}
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+{% endfor %}
+
+{% if serieAwards.size > 0 %}
+	<h2>Palmarés</h2>
+	{% for serieAward in serieAwards %}
+		{% include award.html editionAward=serieAward showWinnerName=true showWinnerPhoto=true showFinalists=false %}
+	{% endfor %}
+{% endif %}
+
+{% if serieNominationsHtml.size > 0 %}
+	<h2>Nominaciones</h2>
+	{% for serieNominationHtml in serieNominationsHtml %}
+		{{ serieNominationHtml }}
+	{% endfor %}
+{% endif %}
+
 <ul class="tantarantana--menu serie--edition">
 	{% assign edition = site.editions | where:"object-id", page.edition-id | first %}
 	{% for editionSerie in edition.series %}
