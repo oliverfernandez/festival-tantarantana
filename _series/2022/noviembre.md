@@ -15,46 +15,16 @@ description: |
   <br><br>
   Espero que al final del ciclo todos podamos ser un poco más felices o, conocer, como poder serlo.
 movies:
-  - name: 
-    director: 
-    year: 
+  - movie-id: https://www.filmaffinity.com/es/film534365.html
+  - movie-id: https://www.filmaffinity.com/es/film536122.html
+  - movie-id: https://www.filmaffinity.com/es/film600959.html
+  - movie-id: https://www.filmaffinity.com/es/film441022.html
+  - movie-id: https://www.filmaffinity.com/es/film467773.html
+  - movie-id: https://www.filmaffinity.com/es/film380283.html
+  - name: Cosmos. Episodio 13. Sin miedo a la oscuridad
+    director: Ann Druyan
+    year: 2014
     filmaffinity:
-      cover: /assets/images/unknown.png
-      url: https://www.filmaffinity.com/es/film517463.html
-  - name: 
-    director: 
-    year: 
-    filmaffinity:
-      cover: /assets/images/unknown.png
-      url: https://dle.rae.es/impaciente
-  - name: 
-    director: 
-    year: 
-    filmaffinity:
-      cover: /assets/images/unknown.png
-      url: https://www.filmaffinity.com/es/film154413.html
-  - name: 
-    director: 
-    year: 
-    filmaffinity:
-      cover: /assets/images/unknown.png
-      url: https://www.filmaffinity.com/es/film154413.html
-  - name: 
-    director: 
-    year: 
-    filmaffinity:
-      cover: /assets/images/unknown.png
-      url: https://dle.rae.es/insistente
-  - name: 
-    director: 
-    year: 
-    filmaffinity:
-      cover: /assets/images/unknown.png
-      url: https://www.filmaffinity.com/es/film507293.html
-  - name: 
-    director: 
-    year: 
-    filmaffinity:
-      cover: /assets/images/unknown.png
-      url: https://dle.rae.es/pesado
+      cover: https://pics.filmaffinity.com/cosmos_a_space_time_odyssey-358329014-mmed.jpg
+      url: https://www.filmaffinity.com/es/film661074.html  
 ---
