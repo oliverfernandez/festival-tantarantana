@@ -23,7 +23,7 @@ Por capricho, Freddie, de veinticinco años, regresa por primera vez a Corea del
 
 ### Carlos Alonso
 
--
+_Construida en forma de sátira contemporánea en torno a la forma de entender nuestra propia identidad individual y colectiva, “Return to Seoul” narra de forma dinámica e irónica la búsqueda de un significado existencial y un sentimiento de pertenencia en su protagonista, rol muy bien interpretado por Ji-min Park, en un entorno marcado por las diferencias culturales, los problemas de comunicación, el dolor y la nostalgia. La primera mitad de la película es excelente, resulta fluida, a veces extraña y sorprendentemente divertida; a partir de ahí todo se vuelve más confuso, reforzado por un abuso de las elipsis y cierta ambigüedad en las motivaciones de sus personajes. En cualquier caso, aún con algunos momentos algo erráticos, el viaje de Freddie nunca resulta tedioso y el resultado final es más que gratificante._
 
 ### Óliver Fernández
 
@@ -39,7 +39,7 @@ Para concentrarse en su carrera, una profesora de ballet vive alejada de su hijo
 
 ### Carlos Alonso
 
--
+_Es una película transgresora y provocativa, que desmonta convencionalismos y que además resulta tremendamente física, íntima y claustrofóbica, gracias en parte a sus primeros y anatómicos planos; pero también le falta profundidad y una motivación más allá del puro escándalo, lo cual a la larga provoca que su visionado pierda interés. En más de una ocasión resulta incómoda de ver, sobre todo por la intensidad interpretativa de Sarah Nevada Grether, que se introduce en cuerpo y alma en el rol protagonista de este perverso film, una mujer marcada por su inestabilidad emocional y sus errores del pasado. Probablemente una de las actuaciones femeninas más arriesgadas y atrevidas desde las que nos regalaron Isabelle Huppert en “La Pianista” y Charlotte Gainsbourg en “Anticristo”._
 
 ### Óliver Fernández
 
