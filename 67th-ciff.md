@@ -44,3 +44,34 @@ _Es una película transgresora y provocativa, que desmonta convencionalismos y q
 ### Óliver Fernández
 
 _"A nivel técnico, la dirección es un primerísimo plano, como en La vida de Adele, pero muy asfixiante, ya que en ningún momento nos deja ver la escena completa. La actriz Sarah Nevada Grether soporta de manera estoica estos primeros planos, ofreciendonos una actuación muy valiente. No obstante, respecto al guión, soy incapaz de ver más allá de la provocación del incesto entre made e hijo. No hay ni el menor atisbo de explicación de las motivaciones, del por qué de su comportamiento. La película salta casi desde el primer momento a unas escenas de sexo tremendamente explícitas que, en mi opinion, resultan tambien muy gratuita."_
+
+***
+
+## [Matter Out Of Place](https://www.filmaffinity.com/es/film236220.html)
+
+<img class=“ciff-cover” src=“https://pics.filmaffinity.com/matter_out_of_place-772195330-large.jpg”>
+
+Una película sobre desechos en áreas remotas y sobre personas que intentan limpiar. Retrata el trabajo de Sísifo de los recolectores de basura y los administradores de desechos en todo el mundo.
+
+### Carlos Alonso
+
+_Un acercamiento interesante, comprometido y consistente a un tema de gran relevancia global como es la gestión y procesamiento de residuos. Porque la producción de basuras no entiende de geografía, raza o clase social: es inherente a la condición humana y un problema que no deberíamos obviar. Se trata de una película austera, sin diálogos ni textos explicativos, sin más sonido que el ambiental y muy largas secuencias expositivas (a veces demasiado). La cámara simplemente acompaña, mantiene una distancia, no crítica ni juzga, solamente muestra e invita a la reflexión. Gran parte de su fuerza radica en sus poderosas imágenes, tanto por su belleza natural como por la nitidez de su fotografía y el impacto que genera el desconocimiento sobre el tema. Funciona a la perfección como un homenaje a todos aquellos que, de manera activa, contribuyen a hacer de este mundo un lugar más limpio y apto para vivir. Desgraciadamente con frecuencia sus imágenes parecen conducirnos a un mundo  absolutamente desconocido, y eso es algo que debería preocuparnos._
+
+
+***
+
+## [Godland](https://www.filmaffinity.com/es/film645982.html)
+
+<img class=“ciff-cover” src=“https://pics.filmaffinity.com/vanskabte_land-330039360-large.jpg”>
+
+### Carlos Alonso
+
+_Sus bellísimos planos generales rápidamente te atrapan. Islandia es su principal protagonista: sus montañas, sus ríos, sus glaciares, sus volcanes en erupción, sus nieves perpetuas, su clima extremo… Y en esa línea la película es todo un deleite para nuestros sentidos. Pero este relato sobre un sacerdote que viaja desde Dinamarca hasta Islandia para construir una iglesia y fotografiar a sus habitantes, iniciando así una travesía que le hará descender hasta lo más profundo del infierno, resulta demasiado contemplativo, con un ritmo excesivamente pausado y una ambigüedad constante. A pesar de su inicio prometedor, “Godland” termina resultando tediosa, le falta cierto equilibrio entre el contenido de la trama y su ritmo narrativo. Lo que nadie podrá negar es que pocas películas son capaces de plasmar la oscuridad de manera tan luminosa, bajo el sol perpetuo del verano en Islandia, una Islandia recóndita, misteriosa y sumamente bella._
+
+### Óliver Fernández
+
+_Godland está inspirada en unas fotografías del siglo XIX encontradas en un paraje remoto de Islandia, hechas por una persona que viajó a la isla dese Dinamarca. 
+
+En la película, Lucas es un cura danés enviado a la isla para construir una iglesia y convertir a los locales. Durante su duro viaje, Lucas también se dedica a fotografiar los impresionantes parajes de la isla. Pronto Islandia se cobra su primera víctima, lo que junto a las duras condiciones climatológicas y el choque cultural posterior con los nativos, pone a prueba la fe de Lucas y su misión apostólica, especialmente cuando la tentación carnal se hace insoportable. 
+
+Para mi gusto, Godland tiene un ritmo algo lento, y lo que impresiona al principio, acaba resultando algo repetitivo. No obstante, es innegable la calidad de la fotografía, y lo bien retratada que está la dureza, tanto de la naturaleza de la isla como sus gentes._
