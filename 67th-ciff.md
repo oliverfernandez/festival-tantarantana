@@ -63,7 +63,7 @@ _"Un acercamiento interesante, comprometido y consistente a un tema de gran rele
 
 <img class="ciff-cover" src="https://pics.filmaffinity.com/vanskabte_land-330039360-large.jpg">
 
-A finales del siglo XIX, un joven sacerdote danés llega a Islandia con la misión de construir una iglesia y fotografiar a sus habitantes. Pero, cuanto más se interna en aquel implacable paisaje, más se sume en las ansias de la tentación y el pecado. 
+A finales del siglo XIX, un joven sacerdote danés llega a Islandia con la misión de construir una iglesia y fotografiar a sus habitantes. Pero, cuanto más se interna en aquel implacable paisaje, más se sume en las ansias de la tentación y el pecado.
 
 ### Carlos Alonso
 
@@ -72,3 +72,35 @@ _"Sus bellísimos planos generales rápidamente te atrapan. Islandia es su princ
 ### Óliver Fernández
 
 _"Godland está inspirada en unas fotografías del siglo XIX encontradas en un paraje remoto de Islandia, hechas por una persona que viajó a la isla dese Dinamarca. En la película, Lucas es un cura danés enviado a la isla para construir una iglesia y convertir a los locales. Durante su duro viaje, Lucas también se dedica a fotografiar los impresionantes parajes de la isla. Pronto Islandia se cobra su primera víctima, lo que junto a las duras condiciones climatológicas y el choque cultural posterior con los nativos, pone a prueba la fe de Lucas y su misión apostólica, especialmente cuando la tentación carnal se hace insoportable. Para mi gusto, Godland tiene un ritmo algo lento, y lo que impresiona al principio, acaba resultando algo repetitivo. No obstante, es innegable la calidad de la fotografía, y lo bien retratada que está la dureza, tanto de la naturaleza de la isla como sus gentes."_
+
+***
+
+## [Arnold is a Model Student](https://www.filmaffinity.com/es/film425154.html)
+
+<img class="ciff-cover" src="https://pics.filmaffinity.com/arnold_is_a_model_student-670932120-mmed.jpg">
+
+Arnold es un estudiante inteligente que ha ganado muchos premios académicos, Un día, conoce a Bee, que tiene un negocio clandestino para ayudar a los estudiantes a hacer trampas en los exámenes. Bee le pide a Arnold unirse a su círculo de tramposos y le ofrece un montón de dinero.
+
+### Carlos Alonso
+
+_"Se agradece poder disfrutar de un film del Sudeste Asiático que se aleja del habitual misticismo y espiritualidad a los que nos tienen acostumbrados, y que prefiere ahondar en temas más terrenales y, por qué no decirlo, mucho más cotidianos. Esta coproducción entre Tailandia, Singapur y Filipinas, basada en hechos reales, aborda el tema del totalitarismo y la lucha por la libertad de expresión en los centros educativos tailandeses (y por extensión de muchas otras instituciones del país y más allá). La película está repleta de muy buenas ideas (desde la corrupción al abuso de poder o la represión), pero las expone de manera demasiado fragmentada y superficial. Le falta cohesión y más compromiso, te deja con ganas de más, probablemente por su incapacidad de dotar con una mayor profundidad a su espíritu crítico. No me cabe la menor duda de sus buenas intenciones, y algunos momentos resultan brillantes, pero lamentablemente el resultado final termina siendo menor que la suma de sus partes."_
+
+### Óliver Fernández
+
+_"Interesante film asiático que denuncia como la corrupción se extiende por varias instancias del gobierno tailandés, centrandose en el competitivo sistema educativo del país. Celebro la valentía de los productores por un film abiertamente crítico, algo difícil en Tailandia donde no existe una monarquía plena. Además, tiene un tono irónico que en algunos momentos es capaz de sacarte una sonrisa, dando un punto desenfadado a la seriedad que estamos viendo. No obstante, como pieza cinematográfica en si, es algo justa. Las actuaciones son justas, y el guión intenta abarcar demasiados temas cuando realmente no era necesario, dado que la trama principal ya daba para ocupar toda la película. Hasta cierto punto todo comprensible, dado la joventud del director y, especialmente, a la dificultad de críticar abiertamente a un gobierno no democrático y no ser objeto de sus represalias. En definitiva, un film valiente y necesario."_
+
+***
+
+## [Alcarràs](https://www.filmaffinity.com/es/film457848.html)
+
+<img class="ciff-cover" src="https://pics.filmaffinity.com/alcarras-600661704-mmed.jpg">
+
+Durante generaciones, la familia Solé, cultiva una gran extensión de melocotoneros en Alcarràs, una pequeña localidad rural de Cataluña. Pero este verano, después de ochenta años cultivando la misma tierra, puede que sea su última cosecha. 
+
+### Carlos Alonso
+
+_"Magnífico retrato costumbrista sobre la pérdida, la adaptación a los cambios y las diferencias generacionales. Carla Simón nos regala una historia entrañable, sensible, humanista y auténtica, con la que resulta muy fácil empatizar. Un relato con un intenso aroma a nostalgia, conmovedor, capaz de evocarnos emociones que quedaron a buen resguardo en nuestros recuerdos. Construida con sencillez y ninguna pretensión, es capaz de albergar gran profundidad en la construcción de sus personajes y en el desarrollo de sus ideas sobre la familia y el contexto político, social y económico de una época. Tiene una gran capacidad narrativa, tanto en ritmo como en tono, y un excelente trabajo de dirección, fotografía y montaje. Su elenco coral destaca por sus estupendas interpretaciones naturalistas y la cercanía que establece con el espectador. 120 minutos de metraje que se suceden de manera casi fulminante y que ayudan a reconciliarse con el cine contemporáneo. Excelente."_
+
+### Óliver Fernández
+
+_"Magnífico retrato constumbrista de una família de payeses de un pueblecito de Lleida, víctimas del avance implacable de la tecnología y la globalización, que lamentablemente deja atrás a tantas personas. La directoria Carla Simón es capaz de mostrarnos un retrato tan natural y verdadero, que por momentos sientes ser un espía por estar viendo la vida diaria de gente real. Carla es capaz de sacar belleza de lo cotidiano, y despertarnos recuerdos de la infancia que hacen conectar irremediablemente con los diferentes personajes. Cuenta, además, con muchas subtramas, pero narrado todo con cohesión y sentido. Atentos a la hija pequeña de Quim, capaz de robarte el corazón sin darte cuenta."_
