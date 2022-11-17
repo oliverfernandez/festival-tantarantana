@@ -104,3 +104,35 @@ _"Magnífico retrato costumbrista sobre la pérdida, la adaptación a los cambio
 ### Óliver Fernández
 
 _"Magnífico retrato constumbrista de una família de payeses de un pueblecito de Lleida, víctimas del avance implacable de la tecnología y la globalización, que lamentablemente deja atrás a tantas personas. La directoria Carla Simón es capaz de mostrarnos un retrato tan natural y verdadero, que por momentos sientes ser un espía por estar viendo la vida diaria de gente real. Carla es capaz de sacar belleza de lo cotidiano, y despertarnos recuerdos de la infancia que hacen conectar irremediablemente con los diferentes personajes. Cuenta, además, con muchas subtramas, pero narrado todo con cohesión y sentido. Atentos a la hija pequeña de Quim, capaz de robarte el corazón sin darte cuenta."_
+
+***
+
+## [Love Around the World](https://www.filmaffinity.com/es/film645879.html)
+
+<img class="ciff-cover" src="https://pics.filmaffinity.com/love_around_the_world-703585607-mmed.jpg">
+
+Un matrimonio se embarca en un viaje de 15 meses alrededor del mundo en busca de una respuesta a la pregunta: ¿Es el amor universal?
+
+### Carlos Alonso
+
+_"Delicioso documental sobre el concepto del amor y las formas de relacionarse románticamente en distintos puntos del mundo. Lejos de juzgar o intentar elaborar sus propias conclusiones, se limita a observar, escuchar y exponer desde cierta distancia, permitiendo un relato fluido, natural y muy divertido a través de dinámicas entrevistas a muy diversas y variopintas parejas. Quizás en algunos momentos eché en falta que profundizara algo más en tramas muy concretas que despertaron en mí cierta curiosidad morbosa, pero “Love around the world” funciona mejor como muestra de las diferencias culturales de este planeta y su impacto en nuestra forma de vivir en pareja, que como disertación filosófica o investigación rigurosa. Su resultado final: una sonrisa permanente en mi rostro y una reflexión: ¿es el amor un concepto universal o viene definido por nuestra cultura?"_
+
+### Óliver Fernández
+
+_"Una pareja de Croacia recién casada decide pasar su luna de miel durante un año viajando por todo el mundo para descubrir como es el amor en otros países y culturas. El documental nos presenta decenas de parejas (y trios, cuartetos…) que nos cuentan como se conocieron y como entienden el amor y su vida en común. Aún con el gran numero de personas presentadas, la narración es coherente y amena, y siempre te quedas con ganas de conocer más protagonistas y más sobre su vida.  La calidad técnica acompaña muy bien, mostrándonos la gran belleza y diversidad del mundo en el que vivimos. Es precisamente esa “diversidad” la que es para mi la principal cualidad del documental. ¿De verdad vivimos en el mismo planeta personas con una manera de vivir (y no solo el amor) tan diferente? Sin duda, “Love Around the World” demuestra que la realidad, siempre supera a la ficción."_
+
+***
+
+## [Ballywalter](https://www.filmaffinity.com/es/film637119.html)
+
+<img class="ciff-cover" src="https://pics.filmaffinity.com/ballywalter-336748530-mmed.jpg">
+
+La relación que se desarrolla entre Eileen, conductora de minitaxis sin licencia, que ha dejado la universidad, y Shane, más mayor y aspirante a cómico, cuyo matrimonio se acaba de romper.
+
+### Carlos Alonso
+
+_"Estupenda tragicomedia sobre dos almas perdidas que un día se conocen en un taxi y a partir de ahí comienzan a desarrollar una bonita (y honesta) amistad que, a través del humor, logra convertirse en una forma de liberación y superación personal. Gran parte de su fuerza radica en sus punzantes diálogos y en la química que muestran sus actores protagonistas. Seána Kerslake y Patrick Kielty nos regalan unas interpretaciones fantásticas, repletas de naturalidad y expresividad. “Ballywalter” resulta emotiva y entrañable sin ser nunca edulcorada ni caer en el melodrama y su forma de abordar un tema tan complejo como la depresión resulta brillante. Resulta sorprendente que se trate del debut cinematográfico de Prasanna Puwanarajah, un director al que habrá que seguir la pista."_
+
+### Óliver Fernández
+
+_"Eileen y Shane viven en un pueblo de Irlanda del Norte, donde poco más hay que hacer que ir al pub local. Cada uno ha sufrido una experiencia traumática, que combaten él apuntandose a un club de comedia, y ella con muy mal genio y buenas dosis de humor negro. Ballywalter es tremendamente cotidiana, expone el peligro que supone no ser capaz de superar una mala etapa en nuestras vidas, y lo fácil que es caer en el circulo vicioso del abandono personal. No solo el argumento es cercano, la dirección y la fotografía también lo son, y la genial actuación de Seána Kerslake es dolorosamente empática. Podría (y problablemente lo haga) pasarte a ti._"
