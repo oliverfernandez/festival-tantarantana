@@ -136,3 +136,19 @@ _"Estupenda tragicomedia sobre dos almas perdidas que un día se conocen en un t
 ### Óliver Fernández
 
 _"Eileen y Shane viven en un pueblo de Irlanda del Norte, donde poco más hay que hacer que ir al pub local. Cada uno ha sufrido una experiencia traumática, que combaten él apuntandose a un club de comedia, y ella con muy mal genio y buenas dosis de humor negro. Ballywalter es tremendamente cotidiana, expone el peligro que supone no ser capaz de superar una mala etapa en nuestras vidas, y lo fácil que es caer en el circulo vicioso del abandono personal. No solo el argumento es cercano, la dirección y la fotografía también lo son, y la genial actuación de Seána Kerslake es dolorosamente empática. Podría (y problablemente lo haga) pasarte a ti._"
+
+***
+
+## [Tenéis que venir a verla](https://www.filmaffinity.com/es/film754398.html)
+
+<img class="ciff-cover" src="https://pics.filmaffinity.com/ballywalter-336748530-mmed.jpg">
+
+Dos parejas de amigos se reencuentran. Escuchan música, hablan, leen, comen, pasean, juegan al ping-pong... Puede parecer poco para una película, por eso... TENÉIS QUE VENIR A VERLA.
+
+### Carlos Alonso
+
+_"No, no vengáis a verla, no es necesario. Sesenta minutos que, lejos de haberme parecidos amenos o insuficientes, resultan interminables gracias a vacuas escenas alargadas hasta la extenuación. La película está repleta de diálogos artificiales y citas extraídas de un libro pseudofilosófico cuya intención parece ser darnos lecciones acerca de la vida y recordarnos los aspectos positivos del comunismo. Es pretenciosa y pedante hasta el punto de resultar insufrible. Las cuatro interpretaciones centrales son pésimas: robotizadas e inexpresivas, además de no mostrar ni la más mínima química en su interacción. Y por si esto fuera poco, la calidad del sonido deja bastante que desear. En definitiva, una gran decepción."_
+
+### Óliver Fernández
+
+_"Si has leído la sinopsis de Filmaffinity, ya has visto la película, porque literlamente no sucede nada más. Lo que podría haber sido un cortometraje correcto es, sin embargo, una película aburrida, con bonitas escenas estiradas hasta la saciedad y completamente vacías de contenido. Tampoco ayuda unas actuaciones muy pobres y sin expresividad alguna. ¿Cómo se atreve el director llenar el film de primerísimos planos, con unos actores que simplemente no tienen el nivel para expresar emociones a través del lenguaje no verbal? La música es otro engaño más hacia el espectador, con escenas que usan una banda sonora completamente desconectada de lo que está pasando en pantalla (que normalmente es nada). Pero no queda ahí la cosa, porque aún queda lo peor de todo: un guión pretencioso, que quiere ser profundo y trascendental, pero que se queda en pedante. Quiere ser moralmente superior y aleccionar al espectador, pero es solo prosa bonita completamente fuera de contexto. Mi consejo: no vayas a verla."_
