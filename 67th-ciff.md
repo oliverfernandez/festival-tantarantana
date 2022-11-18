@@ -141,7 +141,7 @@ _"Eileen y Shane viven en un pueblo de Irlanda del Norte, donde poco más hay qu
 
 ## [Tenéis que venir a verla](https://www.filmaffinity.com/es/film754398.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/ballywalter-336748530-mmed.jpg">
+<img class="ciff-cover" src="https://pics.filmaffinity.com/Ten_is_que_venir_a_verla-585269293-large.jpg">
 
 Dos parejas de amigos se reencuentran. Escuchan música, hablan, leen, comen, pasean, juegan al ping-pong... Puede parecer poco para una película, por eso... TENÉIS QUE VENIR A VERLA.
 
