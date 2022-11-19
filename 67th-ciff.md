@@ -152,3 +152,31 @@ _"No, no vengáis a verla, no es necesario. Sesenta minutos que, lejos de haberm
 ### Óliver Fernández
 
 _"Si has leído la sinopsis de Filmaffinity, ya has visto la película, porque literlamente no sucede nada más. Lo que podría haber sido un cortometraje correcto es, sin embargo, una película aburrida, con bonitas escenas estiradas hasta la saciedad y completamente vacías de contenido. Tampoco ayuda unas actuaciones muy pobres y sin expresividad alguna. ¿Cómo se atreve el director llenar el film de primerísimos planos, con unos actores que simplemente no tienen el nivel para expresar emociones a través del lenguaje no verbal? La música es otro engaño más hacia el espectador, con escenas que usan una banda sonora completamente desconectada de lo que está pasando en pantalla (que normalmente es nada). Pero no queda ahí la cosa, porque aún queda lo peor de todo: un guión pretencioso, que quiere ser profundo y trascendental, pero que se queda en pedante. Quiere ser moralmente superior y aleccionar al espectador, pero es solo prosa bonita completamente fuera de contexto. Mi consejo: no vayas a verla."_
+
+***
+
+## [Corsage](https://www.filmaffinity.com/es/film511173.html)
+
+<img class="ciff-cover" src="https://pics.filmaffinity.com/corsage-476301137-mmed.jpg">
+
+En la Navidad de 1877, Isabel de Austria (Sissi), celebra su 40º cumpleaños. Primera dama de Austria, mujer del emperador Francisco José I, no tiene derecho a expresarse y debe mantenerse hermosa y joven para siempre en su papel de emperatriz. Para satisfacer estas expectativas, adopta un estricto régimen de ayuno, ejercicios, peluquería y medición diaria de su cintura. Asfixiada por dichas convenciones, y con un apetito voraz de saber y de vida, Isabel se rebela cada vez más contra esta imagen.
+
+### Carlos Alonso
+
+_"Una película atrevida, empática y en ocasiones provocadora, que nos ofrece un enfoque poco convencional (y probablemente más honesto), sobre Isabel de Austria, una mujer asfixiada y reprimida por los convencionalismos institucionales y una figura femenina relegada constantemente a la sumisión y la complacencia. Isabel, a sus 40 años, vive exclusivamente para satisfacer las expectativas de su entorno, anclada a una vida sumamente estricta en sus normas y en el control ejercido sobre ella, hasta que la presión alcanza su punto álgido y da rienda suelta a los instintos, a esa necesidad de rebelarse y ejercer su derecho a la libertad de expresión… “Corsage” es austera pero enormemente bella, dirigida con elegancia, con un buen trabajo de montaje y diseño de producción, una preciosa banda sonora y, por encima de todo, una magnífica interpretación central por parte de Vicky Krieps, que se entrega en cuerpo y alma a su rol Sissi hasta el punto de que ambas resultan indistinguibles. En ocasiones eché en falta algo más de humor y mala leche, pero en su conjunto resulta un trabajo de gran calidad y, por qué no decirlo, bastante accesible."_
+
+***
+
+## [All The Beauty and the Bloodshed](https://www.filmaffinity.com/es/film659329.html)
+
+<img class="ciff-cover" src="https://pics.filmaffinity.com/all_the_beauty_and_the_bloodshed-580648221-mmed.jpg">
+
+Sigue la vida de la artista Nan Goldin y la caída de la familia Sackler, la dinastía farmacéutica que fue en gran parte responsable del insondable número de muertos de la epidemia de opioides.
+
+### Carlos Alonso
+
+_"El último documental de Laura Poitras, ganador del León de Oro en la última edición del Festival de Venecia, es una obra compleja, arrolladora, creativa y, en ocasiones emotiva, sobre la vida y carrera artística de la fotógrafa Nan Goldin, así como su implicación como activista en la “guerra” contra la familia Sackler durante la crisis de los opioides. El relato se desarrolla en forma de dos historias paralelas que se entrecruzan, aunque la conexión entre ambas es evidente y Poitras hace un gran trabajo a la hora de lograr una perfecta cohesión entre ambas. El acercamiento al trabajo como fotógrafa de Goldin resulta intimista, valiente y profundamente conmovedor, pero lo más interesante del film es sin duda su forma de exponer el lado más humano (e intrincado) de la figura de Goldin, a través de secuencias que relatan desde los conflictos familiares durante su infancia y la compleja relación con su hermana (así como el impacto que tuvo en su trayectoria como fotógrafa) hasta su paso por la escena LGBTQ del Nueva York de los años 80, su sexualidad, sus relaciones interpersonales o la pandemia del SIDA. Un viaje a través de una vida que, aunque no siempre resulta cómodo o agradable de ver, su resultado es sumamente gratificante y poderoso."_
+
+### Óliver Fernández
+
+_"Durísimo documental biográfico sobre la vida de la fotógrafa Nan Goldin y su activismo contra la industria de los opioides. La directora Laura Poitras reconstruye de manera muy íntima la vida de Nan, usando sus fotografías (magníficos retratos en su mayoría) sin censura. Nan usó su talento fotográfico para generar recuerdos de ella y de la gente que la rodeaba durante sus diferentes etapas de adolescencia, juventud y madurez, y se expone ante el espectador sin tapujos. Precisamente un punto clave en su vida fue su adicción a los opioides, a raíz de una operación quirúrgica. Cuando Nan consigue recuperarse, empieza su lucha contra la familia Sackler, propietaria de varias farmacéuticas, y considerada una de las principales culpables del abuso de opioides, causantes de la pandemia que hoy en día asola Estados Unidos. No es un documental de investigación ni reivindicativo, es biográfico: de la misma manera que Nan nos muestra como practicaba sexo, nos muestra también su calvario de adicción a las drogas. En mi opinión, lo segundo es mucho más difícil y valiente de mostrar al espectador que lo primero. "_
