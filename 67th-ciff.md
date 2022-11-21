@@ -212,3 +212,35 @@ _"La última película de Disney relata el viaje de una familia de exploradores 
 ### Óliver Fernández
 
 _"Mundo Extraño contiene las dos caras de una misma moneda. Por un lado, el músculo técnico y artístico de Disney trabaja a toda máquina para deleitarnos con una maravilla visual y sonora. Todo un espectáculo de imaginación, bellamente animado, que tiene todos los ingredientes para hacer que el espectador se olvide de lo que pasa fuera de la sala de cine, y se enmbarque con la familia protagonista en una gran aventura en un mundo por descubrir (que por momentos recuerda al planeta Pandora, de la película de Avatar). Sin embargo, en la otra cara de la moneda nos encontramos con un guión vacío y sencillo, lejísimos de la calidad a la que Pixar nos ha malacostumbrado. Los guionistas de Disney están más preocupados por cumplir todos los "checks" de inclusividad y diversidad que parece que se exigen hoy en día, que en contar una historia que deleite por igual a niños que a adultos. Intenta representar una familia diversa, pero es tan forzado y presentado con tan poca naturalidad, que difícilmente nadie se va a sentir representado. Intenta dar un mensaje ecologista, pero aparece tan de sopetón hacia al final, que resulta más confuso que inspirador. Creo que si los guionistas de Disney (y sus otros estudios como Marvel o Lucasfilm) se centraran más en contar verdaderas historias que en intentar cumplir una agenda, la diversidad que quieren representar les saldría de manera natural, y la calidad de sus guiones estaría más a la par con su innegable calidad técnica."_
+
+***
+
+## [Matilda, de Roald Dahl: El musical](https://www.filmaffinity.com/es/film143661.html)
+
+<img class="ciff-cover" src="https://pics.filmaffinity.com/roald_dahl_s_matilda_the_musical-470859483-mmed.jpg">
+
+Adaptación del musical premiado con el Tony y el Olivier. Matilda cuenta la historia de una niña extraordinaria que, armada con una mente aguda y una imaginación vívida, se atreve a tomar una posición para cambiar su historia con resultados milagrosos.
+
+### Carlos Alonso
+
+_"Nunca he sido un gran fan de la primera versión de Matilda y, aunque esta película es claramente superior que su antecesora a nivel técnico, nuevamente no he sido capaz de disfrutarla. Probablemente el principal problema radica en su guión, demasiado centrado en entretener a los niños. Unos personajes demasiado bufonescos, un humor particularmente burdo y un desarrollo simplista de la trama, hacen que no pueda considerarla poco más que un mero entrenamiento. El hecho de que la mayor parte de los números musicales sean interpretados por niños resulta agotador, ya que sus voces inmaduras y chillonas muchas veces se hallan más cercanas al grito que a un sonido melodioso. Y honestamente, ninguna de sus canciones me parece especialmente memorable. Debo decir a su favor que puede presumir de un ritmo dinámico, está muy bien coreografiada y cuenta con una estética muy cuidada y colorista, lo cual la hace visualmente agradable; pero, sin duda alguna, su punto más favorable radica en la presencia de Emma Thompson en el rol de villana, convirtiendo cada una de sus apariciones en todo un deleite interpretativo, logrando de ese modo recuperar mi atención cuando el resto de elementos no funcionan."_
+
+### Óliver Fernández
+
+_"Nueva adaptación al cine de la novela de Roald Dahl. Sin haber leído el libro, ni haber visto la primera adaptación del 1996, ni haber visto la obra de teatro, sí que al menos puedo decir que es un gran espectáculo visual y sonoro, y toda una master class de coreografías infantiles. La dirección artística nos transporta a un mundo que por momentos parece inspirado por Tim Burton, y las actuaciones de los protagonistas despliegan un gran nivel, destacando la pequeña Alisha Weir, pero por encima de los demás la irreconocible Emma Thompson. Especialmente disfrutable para los niños."_
+
+***
+
+## [El imperio de la luz](https://www.filmaffinity.com/es/film547708.html)
+
+<img class="ciff-cover" src="https://pics.filmaffinity.com/empire_of_light-272413261-mmed.jpg">
+
+Una historia de amor ambientada alrededor de un hermoso cine antiguo en la costa sur de Inglaterra, en la década de 1980.
+
+### Carlos Alonso
+
+_"El último trabajo de Sam Mendes resulta decepcionante. Nos había prometido romanticismo, nostalgia y todo un homenaje al mundo del cine, pero el resultado final resulta confuso y rara vez emociona. Mendes no hace un mal trabajo como director, pero definitivamente se hunde en los aspectos narrativos. El guión ofrece una serie de ideas interesantes, pero que no acaban nunca de funcionar, ya que carecen de suficiente desarrollo y cohesión entre ellas. El resultado final genera indiferencia, aunque sin llegar a ser tedioso. Lo único que logra suscitar interés en sus casi 2 horas de metraje es su estupendo reparto, encabezado por una inconmensurable Olivia Colman que, una vez más en su intachable trayectoria, nos brinda una feroz y poderosa interpretación en torno a la salud mental, por la que probablemente recibirá múltiples nominaciones en los diferentes certámenes de esta temporada."_
+
+### Óliver Fernández
+
+_"Esta película de Sam Mendes cuenta con muchos ingredientes que individualmente son estupendas ideas, pero que mezclados dan como resultado un guión indefinido y que salta de un tema a otro sin un hilo argumental coherente. Definitivamente el guión esta muy por debajo del gran trabajo de fotografía, dirección artística, y sobretodo de la grandísima actuación de Olivia Colman. No entiendo por qué se describe a "El imperio de la luz" como un homenaje al cine, cuando durante la película solo se menciona al cine porque parte de la trama sucede en una sala cinematográfica, y más allá del proyectista ningún personaje muestra interés real por el lugar donde trabaja. En definitiva, un escaparate de buenas ideas, pero que resultan artificiales, forzadas y sin ningún nexo en común."_
