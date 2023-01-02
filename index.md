@@ -1,16 +1,14 @@
 ---
 layout: default
-label: IX Edición
+label: X Edición
 ---
 
-{% assign edition2022 = site.editions | where:"object-id", "edition_2022"  | first %}
+{% assign edition2023 = site.editions | where:"object-id", "edition_2023"  | first %}
 
-## La selección oficial del 2022...
-
-...es un misterio. Este año practicaremos la emoción y quizás sea hasta ahora el año más diferente. Abrid vuestras mentes y dejaos llevar por esta aventura incierta. Así que... ¡pasajeros al tren!
+## La selección oficial del 2023
 
 <ul class="edition--series">
-	{% for editionSerie in edition2022.series %}
+	{% for editionSerie in edition2023.series %}
 		{% assign serie = site.series | where:"object-id", editionSerie.serie-id | first %}
 		<li class="edition--serie">
 			<a class="edition--serie__link" href="{{ serie.url }}">{{ serie.label }}</a>
@@ -25,7 +23,7 @@ De aquí y de allá. Amantes del cine clásico, el americano más comercial o el
 El **Festival de Tantarantana** no sería posible sin su maravilloso jurado.
 
 <ul class="edition--members tantarantana--grid">
-	{% for editionMember in edition2022.members %}
+	{% for editionMember in edition2023.members %}
 		{% assign member = site.members | where:"object-id", editionMember.member-id | first %}
 		<li class="edition--member tantarantana--grid-item">
 			<a class="edition--member__link" href="{{ member.url }}">
@@ -34,7 +32,7 @@ El **Festival de Tantarantana** no sería posible sin su maravilloso jurado.
 					{{ member.label }}
 				</div>				
 			</a>
-			{% if edition2022.presidents-id contains member.object-id %}
+			{% if edition2023.presidents-id contains member.object-id %}
 				<img class="edition--members__president_badge" src="/assets/images/badge.png" title="President">
 			{% endif %}
 		</li>

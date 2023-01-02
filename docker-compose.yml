@@ -1,0 +1,16 @@
+version: "3.9"
+services:
+  tantarantana:
+    container_name: tantarantana
+    image: jekyll/jekyll:latest
+    ports:
+      - "4000:4000"
+    volumes:
+      - ./:/var/www
+    working_dir: /var/www
+    entrypoint: bash
+    command:
+      - "-c"
+      - |
+        bundle install
+        bundle exec jekyll serve --host 0.0.0.0
