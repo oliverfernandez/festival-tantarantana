@@ -7,6 +7,14 @@ label: X Edición
 
 ## La selección oficial del 2023
 
+Frank Capra decía que el cine era como una enfermedad: "Cuando infecta tu sange, se apodera de tu cuerpo hasta llegar a tu mente y, al igual que la heroína, el antídoto para el cine es más cine".
+
+Espero estar a la altura de este festival que tanto queremos! Este año habrán muchos cambios pero los recibo con muchísima ilusión y estoy seguro que funcionarán y enriquecerán el festival!
+
+Que sea un año lleno de buen cine, de grandes críticas y que podamos juntarnos muchas veces viendo películas!
+
+Y como aquél maravilloso 28 de Diciembre de 1895 se citó en un Café francés: "Que la lumière soit!"!
+
 <ul class="edition--series">
 	{% for editionSerie in edition2023.series %}
 		{% assign serie = site.series | where:"object-id", editionSerie.serie-id | first %}
