@@ -52,6 +52,11 @@ layout: default
 
 	<dt>Ciclo</dt>
 	<dd><a href="{{ movieSerie.url }}">{{movieSerie.name}}</a></dd>
+
+	{% if page.wix %}
+		<dt><a href="{{ page.wix.post }}" target="_blank">Comentarios del jurado</a></dt>
+		<dd></dd>
+	{% endif %}
 </dl>
 
 
