@@ -64,9 +64,11 @@ layout: default
 {% assign movieAwards = '' | split: '' %}
 {% assign movieNominationsHtml = '' | split: '' %}
 {% for editionAward in movieEdition.awards %}
-	{% if editionAward.winner.movie-id == page.object-id %}
-		{% assign movieAwards = movieAwards | push: editionAward %}
-	{% endif %}
+	{% for winner in editionAward.winners %}
+		{% if winner.movie-id == page.object-id %}
+			{% assign movieAwards = movieAwards | push: editionAward %}
+		{% endif %}
+	{% endfor %}
 
 	{% for awardFinalist in editionAward.finalists %}
 		{% if awardFinalist.movie-id == page.object-id %}

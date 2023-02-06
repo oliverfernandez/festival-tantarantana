@@ -1,5 +1,4 @@
 {% assign award = site.awards | where:"object-id", include.editionAward.award-id | first %}
-{% assign winnerMovie = site.movies | where:"object-id", include.editionAward.winner.movie-id | first %}
 <div class="edition--award">
 	<div class="edition--award__header">
 		<img class="edition--award__logo" src="/assets/images/award-logo-left.png">
@@ -8,42 +7,53 @@
 	</div>
 
 	{% if include.showWinnerPhoto or include.showWinnerName %}
-		<div class="edition--award__body">
-			<a href="{{ winnerMovie.url }}">
-				{% if include.showWinnerPhoto %}
-					{% if include.editionAward.winner.photo %}
-						<img class="edition--award__photo" src="{{ include.editionAward.winner.photo }}">
-					{% else %}
-						<img class="edition--award__photo" src="{{ winnerMovie.filmaffinity.cover }}">
-					{% endif %}
-				{% endif %}
+		<div class="edition--award__winners_container">
+			{% for winner in include.editionAward.winners %}
+				{% assign winnerMovie = site.movies | where:"object-id", winner.movie-id | first %}
+				<div class="edition--award__body">
+					<a href="{{ winnerMovie.url }}">
+						{% if include.showWinnerPhoto %}
+							{% if winner.photo %}
+								<img class="edition--award__photo" src="{{ winner.photo }}">
+							{% else %}
+								<img class="edition--award__photo" src="{{ winnerMovie.filmaffinity.cover }}">
+							{% endif %}
+						{% endif %}
 
-				{% if include.showWinnerName %}
-					<h4 class="edition--award__winner">
-						{% if include.editionAward.winner.label %}
-							{{ include.editionAward.winner.label }}
-							-
-						{% endif %}		
-						{{ winnerMovie.label }}
-					</h4>
-				{% endif %}
-			</a>
+						{% if include.showWinnerName %}
+							<h4 class="edition--award__winner">
+								{% if winner.label %}
+									{{ winner.label }}
+									-
+								{% endif %}		
+								{{ winnerMovie.label }}
+							</h4>
+						{% endif %}
+					</a>
+				</div>
+			{% endfor %}
 		</div>
 	{% endif %}
 
 	{% if include.editionAward.finalists and include.showFinalists %}
 		<div class="edition--award__footer">
 			{% for finalist in include.editionAward.finalists %}
-				{% assign finalistMovie = site.movies | where:"object-id", finalist.movie-id | first %}
 				<h4 class="edition--award__finalist">
-					<a href="{{ finalistMovie.url }}">
-						{% if finalist.label %}
-							{{ finalist.label }}
-							-
-						{% endif %}	
-						{{ finalistMovie.label }}
-					</a>
-				</h4>
+					{% if finalist.movie-id %}
+						{% assign finalistMovie = site.movies | where:"object-id", finalist.movie-id | first %}
+						<a href="{{ finalistMovie.url }}">
+							{% if finalist.label %}
+								{{ finalist.label }}
+								-
+							{% endif %}	
+							{{ finalistMovie.label }}
+						</a>
+					{% else %}
+						<a target="_blank" href="{{ finalist.filmaffinity.url }}">
+							{{ finalist.name }}
+						</a>
+					{% endif %}
+				</h4>				
 			{% endfor %}
 		</div>
 	{% endif %}

@@ -22,9 +22,11 @@ layout: default
 {% assign serieNominationsHtml = '' | split: '' %}
 {% for editionAward in edition.awards %}
 	{% for serieMovie in page.movies %}
-		{% if editionAward.winner.movie-id == serieMovie.movie-id %}
-			{% assign serieAwards = serieAwards | push: editionAward %}
-		{% endif %}
+		{% for winner in editionAward.winners %}
+			{% if winner.movie-id == serieMovie.movie-id %}
+				{% assign serieAwards = serieAwards | push: editionAward %}
+			{% endif %}
+		{% endfor %}
 
 		{% for editionFinalist in editionAward.finalists %}
 			{% if editionFinalist.movie-id == serieMovie.movie-id %}
