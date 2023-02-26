@@ -1,4 +1,4 @@
 ---
 object-id: member_patricia
-label: Patricia
+label: Patricia Longares
 ---
