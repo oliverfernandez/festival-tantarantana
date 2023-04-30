@@ -1,7 +1,7 @@
 ---
-object-id: serie_2023_abril
+object-id: serie_2023_mayo
 edition-id: edition_2023
-label: Abril
+label: Mayo
 member-id: member_oliver
 name: La noche
 description: |
