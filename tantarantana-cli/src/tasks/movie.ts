@@ -45,7 +45,16 @@ class FilmaffinityPage {
   }
 
   async getCast() {
-    return (await this.jsdom).window.document.querySelector('.movie-info .card-cast')?.textContent?.trim()
+    const document = (await this.jsdom).window.document
+    let cast
+
+    cast = document.querySelector('.movie-info .card-cast')?.textContent?.trim()
+
+    if (!cast) {
+      cast = ([...document.querySelectorAll('.movie-info .credits-scroller li:not(.see-more-cre)')]).map(actor => actor.textContent).join(', ')
+    }
+
+    return cast
   }
 
   async getSynopsis() {
