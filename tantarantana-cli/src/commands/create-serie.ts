@@ -8,7 +8,7 @@ export class CreateSerie extends Command {
     const year = await CliUx.ux.prompt('Year (example: 2021)', {required: true})
     const label = await CliUx.ux.prompt('Label (example: Febrero) ', {required: true})
     const name = await CliUx.ux.prompt('Name (example: Profesiones no tan comunes)', {required: true})
-    const description = await CliUx.ux.prompt('Description (example: Profesiones no tan comunes)', {required: true})
+    const description = await CliUx.ux.prompt('Description (example: Profesiones no tan comunes)', {required: false})
     const movies: string = await CliUx.ux.prompt('Filmaffinity URLs separated by commas', {required: true})
 
     if (await CliUx.ux.confirm('Create serie?')) {
