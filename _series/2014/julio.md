@@ -2,7 +2,7 @@
 object-id: serie_2014_julio
 edition-id: edition_2014
 label: Julio
-member-id: memmber_carlos
+member-id: member_carlos
 name: Musicales I
 description: ""
 movies:
