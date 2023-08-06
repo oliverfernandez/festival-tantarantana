@@ -2,13 +2,6 @@
 layout: default
 ---
 
-{% assign movieSerie = site.series | where:"object-id", page.serie-id | first %}
-{% assign movieEdition = site.editions | where:"object-id", movieSerie.edition-id | first %}
-
-{% if movieSerie.member-id  %}
-	{% assign movieMember = site.members | where:"object-id", movieSerie.member-id | first %}
-{% endif %}	
-
 <div class="movie--filmaffinity">
 	<img class="movie--filmaffinity__cover" src="{{ page.filmaffinity.cover }}">
 
@@ -35,72 +28,92 @@ layout: default
 	
 </div>
 
-<h2>Tantarantana</h2>
 
-<dl class="movie--tantarantana__details movie--table">
-	<dt>Miembro Jurado</dt>
-	<dd>
-		{% if movieMember %}
-			<a href="{{ movieMember.url }}">{{movieMember.label}}</a>
-		{% else %}
-			👻
-		{% endif %}			
-	</dd>
+{% assign movieSerieIds = '' | split: '' %}
 
-	<dt>Año</dt>
-	<dd><a href="{{ movieEdition.url }}">{{movieEdition.name}}</a></dd>
+{% if page.serie-ids  %}
+	{% assign movieSerieIds = page.serie-ids %}
+{% else %}
+	{% assign movieSerieIds = movieSerieIds | push: page.serie-id %}
+{% endif %}	
 
-	<dt>Ciclo</dt>
-	<dd><a href="{{ movieSerie.url }}">{{movieSerie.name}}</a></dd>
+{% assign movieSeries = site.series | where_exp:"item", "movieSerieIds contains item.object-id" %}
 
-	{% if page.wix %}
-		<dt><a href="{{ page.wix.post }}" target="_blank">Comentarios del jurado</a></dt>
-		<dd></dd>
+{% for movieSerie in movieSeries %}
+
+	{% assign movieEdition = site.editions | where:"object-id", movieSerie.edition-id | first %}
+
+	{% if movieSerie.member-id  %}
+		{% assign movieMember = site.members | where:"object-id", movieSerie.member-id | first %}
+	{% endif %}	
+
+	
+
+	<h2>Tantarantana <a href="{{ movieEdition.url }}">{{movieEdition.name}}</a></h2>
+
+	<dl class="movie--tantarantana__details movie--table">
+		<dt>Miembro Jurado</dt>
+		<dd>
+			{% if movieMember %}
+				<a href="{{ movieMember.url }}">{{movieMember.label}}</a>
+			{% else %}
+				👻
+			{% endif %}			
+		</dd>
+
+		<dt>Ciclo</dt>
+		<dd><a href="{{ movieSerie.url }}">{{movieSerie.name}}</a></dd>
+
+		{% if page.wix %}
+			<dt><a href="{{ page.wix.post }}" target="_blank">Comentarios del jurado</a></dt>
+			<dd></dd>
+		{% endif %}
+	</dl>
+
+
+
+	{% assign movieAwards = '' | split: '' %}
+	{% assign movieNominationsHtml = '' | split: '' %}
+	{% for editionAward in movieEdition.awards %}
+		{% for winner in editionAward.winners %}
+			{% if winner.movie-id == page.object-id %}
+				{% assign movieAwards = movieAwards | push: editionAward %}
+			{% endif %}
+		{% endfor %}
+
+		{% for awardFinalist in editionAward.finalists %}
+			{% if awardFinalist.movie-id == page.object-id %}
+				{% capture movieNomationTitleHtml %}
+					{% assign nominationAwardObject = site.awards | where:"object-id", editionAward.award-id | first %}
+					<h3 class="movie--nomination__label">
+						{{nominationAwardObject.label}}
+					</h3>
+					{% if awardFinalist.label %}
+					<h4 class="movie--nomination__label">
+						<a href="{{ page.url }}">
+							{{ awardFinalist.label }}
+						</a>
+					</h4>
+					{% endif %}
+				{% endcapture %}
+				{% assign movieNominationsHtml = movieNominationsHtml | push: movieNomationTitleHtml %}
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+
+	{% if movieAwards.size > 0 %}
+		<h2>Palmarés <a href="{{ movieEdition.url }}">{{movieEdition.name}}</a></h2>
+		{% for movieAward in movieAwards %}
+			{% include award.html editionAward=movieAward showWinnerName=false showWinnerPhoto=false showFinalists=false %}
+		{% endfor %}
 	{% endif %}
-</dl>
 
 
+	{% if movieNominationsHtml.size > 0 %}
+		<h2>Nominaciones <a href="{{ movieEdition.url }}">{{movieEdition.name}}</a></h2>
+		{% for movieNominationHtml in movieNominationsHtml %}
+			{{ movieNominationHtml }}
+		{% endfor %}
+	{% endif %}
 
-{% assign movieAwards = '' | split: '' %}
-{% assign movieNominationsHtml = '' | split: '' %}
-{% for editionAward in movieEdition.awards %}
-	{% for winner in editionAward.winners %}
-		{% if winner.movie-id == page.object-id %}
-			{% assign movieAwards = movieAwards | push: editionAward %}
-		{% endif %}
-	{% endfor %}
-
-	{% for awardFinalist in editionAward.finalists %}
-		{% if awardFinalist.movie-id == page.object-id %}
-			{% capture movieNomationTitleHtml %}
-				{% assign nominationAwardObject = site.awards | where:"object-id", editionAward.award-id | first %}
-				<h3 class="movie--nomination__label">
-					{{nominationAwardObject.label}}
-				</h3>
-				{% if awardFinalist.label %}
-				<h4 class="movie--nomination__label">
-					<a href="{{ page.url }}">
-						{{ awardFinalist.label }}
-					</a>
-				</h4>
-				{% endif %}
-			{% endcapture %}
-			{% assign movieNominationsHtml = movieNominationsHtml | push: movieNomationTitleHtml %}
-		{% endif %}
-	{% endfor %}
 {% endfor %}
-
-{% if movieAwards.size > 0 %}
-	<h2>Palmarés</h2>
-	{% for movieAward in movieAwards %}
-		{% include award.html editionAward=movieAward showWinnerName=false showWinnerPhoto=false showFinalists=false %}
-	{% endfor %}
-{% endif %}
-
-
-{% if movieNominationsHtml.size > 0 %}
-	<h2>Nominaciones</h2>
-	{% for movieNominationHtml in movieNominationsHtml %}
-		{{ movieNominationHtml }}
-	{% endfor %}
-{% endif %}
