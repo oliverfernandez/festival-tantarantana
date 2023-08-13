@@ -2,39 +2,73 @@
 layout: default
 ---
 
-<h2>Ciclos</h2>
+{% if page.object-id == "edition_2024" %}
+	<img src="/assets/images/2024.JPG">
+	<p>
+		¡Tantarantana cumple 10 años y hemos decidido celebrarlo por todo lo alto!
 
-<ul class="edition--series">
-	{% for editionSerie in page.series %}
-		{% assign serie = site.series | where:"object-id", editionSerie.serie-id | first %}
-		<li class="edition--serie">
-			<a class="edition--serie__link" href="{{ serie.url }}">{{ serie.label }}</a>
-		</li>
-	{% endfor %}
-</ul>
+		Porque el cine no es sólo descubrimiento, entretenimiento y sorpresa… también es recuerdo, nostalgia, aprendizaje, experiencia…
 
-<h2>Jurado</h2>
+		En esta edición veremos algunos de nuestros títulos favoritos, incluyendo las finalistas de las primeras nueve ediciones, pero también algunas de las películas que más marcaron nuestra infancia, aquellas que no podemos evitar ver una y otra vez, y otras que, por mucho que el tiempo pase y no hayamos vuelto a revisionar, jamás podremos olvidar. 
 
-<ul class="edition--members tantarantana--grid">
-	{% for editionMember in page.members %}
-		{% assign member = site.members | where:"object-id", editionMember.member-id | first %}
-		<li class="edition--member tantarantana--grid-item">
-			<a class="edition--member__link" href="{{ member.url }}">
-				<img class="edition--member__photo" src="/assets/images/members/{{ member.object-id }}.jpg">
-				<div class="edition--member__name">
-					{{ member.label }}
-				</div>				
-			</a>
-			{% if page.presidents-id contains member.object-id %}
-				<img class="edition--members__president_badge" src="/assets/images/badge.png" title="President">
-			{% endif %}
-		</li>
-	{% endfor %}
-</ul>
+		Porque el tiempo puede hacernos ver las películas con otros ojos, cambiar nuestras gustos y opiniones, hacernos experimentar diferentes sensaciones como parte del proceso de crecimiento y maduraración, pero jamás borrará nuestro amor incondicional por el cine…
+	</p>
 
-{% if page.awards %}
-	<h2>Palmarés</h2>
-	{% for editionAward in page.awards %}
-		{% include award.html editionAward=editionAward showWinnerName=true showWinnerPhoto=true showFinalists=true %}
-	{% endfor %}
+	<h2>La selección oficial del 2024</h2>
+
+	<ul class="edition--series">
+		{% assign series2024 = site.series | where:"edition-id", "edition_2024" %}
+		{% for serie2024 in series2024 %}
+			<li class="edition--serie">
+				<a class="edition--serie__link" href="{{ serie2024.url }}">{{ serie2024.label }}</a>
+			</li>
+		{% endfor %}
+	</ul>
+
+	<h2>Anteriormente en Tantarantana...</h2>
+
+	<p>Conoce todo lo que ha dado de si el festival echando un vistazo a ediciones pasadas</p>
+
+	<div class="editions--history">
+		{% include edition_menu.html %}
+	</div>
+{% else %}
+	<h2>Ciclos</h2>
+
+	<ul class="edition--series">
+		{% for editionSerie in page.series %}
+			{% assign serie = site.series | where:"object-id", editionSerie.serie-id | first %}
+			<li class="edition--serie">
+				<a class="edition--serie__link" href="{{ serie.url }}">{{ serie.label }}</a>
+			</li>
+		{% endfor %}
+	</ul>
+
+	<h2>Jurado</h2>
+
+	<ul class="edition--members tantarantana--grid">
+		{% for editionMember in page.members %}
+			{% assign member = site.members | where:"object-id", editionMember.member-id | first %}
+			<li class="edition--member tantarantana--grid-item">
+				<a class="edition--member__link" href="{{ member.url }}">
+					<img class="edition--member__photo" src="/assets/images/members/{{ member.object-id }}.jpg">
+					<div class="edition--member__name">
+						{{ member.label }}
+					</div>				
+				</a>
+				{% if page.presidents-id contains member.object-id %}
+					<img class="edition--members__president_badge" src="/assets/images/badge.png" title="President">
+				{% endif %}
+			</li>
+		{% endfor %}
+	</ul>
+
+	{% if page.awards %}
+		<h2>Palmarés</h2>
+		{% for editionAward in page.awards %}
+			{% include award.html editionAward=editionAward showWinnerName=true showWinnerPhoto=true showFinalists=true %}
+		{% endfor %}
+	{% endif %}
 {% endif %}
+
+
