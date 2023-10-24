@@ -1,9 +1,9 @@
 ---
 object-id: serie_2024_junio
 edition-id: edition_2024
-label: Junio
+label: Junio 2024
 member-id: 
-name: Junio
+name:
 description: 
 movies:
   - movie-id: https://www.filmaffinity.com/es/film112475.html

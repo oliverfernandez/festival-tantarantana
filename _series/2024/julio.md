@@ -1,9 +1,9 @@
 ---
 object-id: serie_2024_julio
 edition-id: edition_2024
-label: Julio
+label: Julio 2024
 member-id: 
-name: Julio
+name:
 description: 
 movies:
   - movie-id: https://www.filmaffinity.com/es/film789039.html

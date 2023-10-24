@@ -1,9 +1,9 @@
 ---
 object-id: serie_2024_febrero
 edition-id: edition_2024
-label: Febrero
+label: Febrero 2024
 member-id: 
-name: Febrero
+name:
 description: 
 movies:
   - movie-id: https://www.filmaffinity.com/es/film167314.html

@@ -1,9 +1,9 @@
 ---
 object-id: serie_2024_marzo
 edition-id: edition_2024
-label: Marzo
+label: Marzo 2024
 member-id: 
-name: Marzo
+name:
 description: 
 movies:
   - movie-id: https://www.filmaffinity.com/es/film520214.html

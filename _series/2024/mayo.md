@@ -1,9 +1,9 @@
 ---
 object-id: serie_2024_mayo
 edition-id: edition_2024
-label: Mayo
+label: Mayo 2024
 member-id: 
-name: Mayo
+name:
 description: 
 movies:
   - movie-id: https://www.filmaffinity.com/es/film361182.html

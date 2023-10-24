@@ -4,8 +4,8 @@
 <meta property="og:site_name" content="Festival de cine Tantarantana">
 
 {% if page.collection == "editions" %}
-    <title>{{site.title}} - {{site.description}}</title>
-    <meta property="og:title" content="{{site.title}} - {{site.description}}">
+    <title>{{page.label}} del {{site.title}}</title>
+    <meta property="og:title" content="{{page.label}} del {{site.title}}">
     <meta property="og:type" content="website">
     <meta name="og:description" content="{{ page.label }}">
     <meta name="description" content="{{ page.label }}">
@@ -18,15 +18,16 @@
     <meta name="description" content="{{ page.label }} | Conoce al jurado del Festival de cine Tantarantana">
     <meta property="og:image" content="{{ site.url }}/assets/images/members/{{ page.object-id }}.jpg"/>
 {% elsif page.collection == "movies" %}
-    <title>{{page.label}} | {{site.title}} - {{site.description}}</title>
-    <meta property="og:title" content="{{ page.label }} | {{ site.title }} - {{ site.description }}">
+    <title>{{page.label}} | {{site.title}}</title>
+    <meta property="og:title" content="{{ page.label }} | {{ site.title }}">
     <meta property="og:type" content="article">
     <meta name="og:description" content="{{ page.synopsis | escape  }}">
     <meta name="description" content="{{ page.synopsis | escape  }}">
     <meta property="og:image" content="{{ page.filmaffinity.cover }}"/>
 {% elsif page.collection == "series" %}
-    <title>{{ page.label }} | {{site.title}} - {{site.description}}</title>
-    <meta property="og:title" content="{{ page.label }} | {{ site.title }} - {{ site.description }}">
+    {% assign serieEdition = site.editions | where:"object-id", page.edition-id | first %}
+    <title>{{ page.label }} | {{ serieEdition.label }} del {{ site.title }}</title>
+    <meta property="og:title" content="{{ page.label }} | {{ serieEdition.label }} del {{ site.title }}">
     <meta property="og:type" content="article">
     <meta name="og:description" content="{{ page.description | escape  }}">
     <meta name="description" content="{{ page.description | escape }}">

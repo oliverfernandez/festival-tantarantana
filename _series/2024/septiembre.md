@@ -1,9 +1,9 @@
 ---
 object-id: serie_2024_september
 edition-id: edition_2024
-label: Septiembre
+label: Septiembre 2024
 member-id: 
-name: Septiembre
+name:
 description: 
 movies:
   - movie-id: https://www.filmaffinity.com/es/film956950.html

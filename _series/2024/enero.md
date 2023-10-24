@@ -1,9 +1,9 @@
 ---
 object-id: serie_2024_enero
 edition-id: edition_2024
-label: Enero
+label: Enero 2024
 member-id: 
-name: Enero
+name:
 description: 
 movies:
   - movie-id: https://www.filmaffinity.com/es/film171099.html

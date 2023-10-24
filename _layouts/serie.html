@@ -4,7 +4,9 @@ layout: default
 
 {% assign edition = site.editions | where:"object-id", page.edition-id | first %}
 
-<h2 class="serie__name">{{ page.name }}</h2>
+{% if page.name %}
+	<h2 class="serie__name">{{ page.name }}</h2>
+{% endif %}
 
 {% if page.member-id %}
 	{% assign member = site.members | where:"object-id", page.member-id | first %}

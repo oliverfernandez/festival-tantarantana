@@ -1,9 +1,9 @@
 ---
 object-id: serie_2024_october
 edition-id: edition_2024
-label: Octubre
+label: Octubre 2024
 member-id: 
-name: Octubre
+name:
 description: 
 movies:
   - movie-id: https://www.filmaffinity.com/es/film121917.html

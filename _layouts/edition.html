@@ -17,10 +17,10 @@ layout: default
 	<h2>La selección oficial del 2024</h2>
 
 	<ul class="edition--series">
-		{% assign series2024 = site.series | where:"edition-id", "edition_2024" %}
-		{% for serie2024 in series2024 %}
+		{% for editionSerie in page.series %}
+			{% assign serie = site.series | where:"object-id", editionSerie.serie-id | first %}
 			<li class="edition--serie">
-				<a class="edition--serie__link" href="{{ serie2024.url }}">{{ serie2024.label }}</a>
+				<a class="edition--serie__link" href="{{ serie.url }}">{{ serie.label }}</a>
 			</li>
 		{% endfor %}
 	</ul>

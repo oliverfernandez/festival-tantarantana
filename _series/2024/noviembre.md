@@ -1,9 +1,9 @@
 ---
 object-id: serie_2024_november
 edition-id: edition_2024
-label: Noviembre
+label: Noviembre 2024
 member-id: 
-name: Noviembre
+name:
 description: 
 movies:
   - movie-id: https://www.filmaffinity.com/es/film536488.html
