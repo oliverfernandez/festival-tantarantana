@@ -2,7 +2,7 @@
 object-id: serie_2023_noviembre
 edition-id: edition_2023
 label: Noviembre
-member-id: member_cris
+member-id: member_cristina
 name: Películas prohibidas o problemáticas
 description: |
   Un día buscando por redes nuevas películas, me encontré con algunas obras que en su país han sido prohibidas o que han causado un gran impacto en la sociedad, tanto como para llegar a prohibirlas.
