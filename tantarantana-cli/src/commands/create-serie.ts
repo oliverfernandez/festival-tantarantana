@@ -9,7 +9,16 @@ export class CreateSerie extends Command {
     const label = await CliUx.ux.prompt('Label (example: Febrero) ', {required: true})
     const name = await CliUx.ux.prompt('Name (example: Profesiones no tan comunes)', {required: true})
     const description = await CliUx.ux.prompt('Description (example: Profesiones no tan comunes)', {required: false})
-    const movies: string = await CliUx.ux.prompt('Filmaffinity URLs separated by commas', {required: true})
+    const moviesParam: string = await CliUx.ux.prompt('<Filmaffinity URLs> <Member ID>. Separated by commas.', {required: true})
+
+    const movies = moviesParam.split(',').map(movie => {
+      const [movieUrl, memberId] = movie.split(' ')
+
+      return {
+        'movie-id': movieUrl,
+        'member-id': memberId,
+      }
+    })
 
     if (await CliUx.ux.confirm('Create serie?')) {
       const serie = buildSerie(
@@ -18,7 +27,7 @@ export class CreateSerie extends Command {
         label,
         name,
         description,
-        movies.split(',').map(movieUrl => movieUrl.trim()),
+        movies,
       )
 
       const progressBar = CliUx.ux.progress()
@@ -33,6 +42,7 @@ export class CreateSerie extends Command {
           movie['movie-id'],
           serie['object-id'],
           year,
+          movie['member-id'],
         )
 
         progressBar.increment()

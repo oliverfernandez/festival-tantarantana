@@ -2,6 +2,7 @@ import {saveYamlMarkdown} from '../utils/files'
 
 type MovieSerie = {
   'movie-id': string
+  'member-id': string
 }
 
 export type Serie = {
@@ -21,7 +22,7 @@ export function build(
   label: string,
   name: string,
   description: string,
-  movies: string[],
+  movies: MovieSerie[],
 ): Serie {
   return {
     'object-id': `serie_${year}_${getHumanReadableId(label)}`,
@@ -30,7 +31,7 @@ export function build(
     'member-id': memberId,
     name,
     description,
-    movies: movies.map(movie => ({'movie-id': movie})),
+    movies,
   }
 }
 

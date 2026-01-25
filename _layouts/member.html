@@ -25,8 +25,31 @@ layout: default
 
 <h2>Películas presentadas en Tantarantana</h2>
 {% assign memberMovies = "" | split: "" %}
+
+{% comment %} Part 1: Movies from series where member is owner AND movies don't use per-movie member-id {% endcomment %}
 {% for memberSerie in memberSeries %}
-	{% assign memberMovies = memberMovies | concat: memberSerie.movies %}
+    {% assign serieUsesPerMovieMember = false %}
+    {% for movie in memberSerie.movies %}
+        {% if movie.member-id %}
+            {% assign serieUsesPerMovieMember = true %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+    
+    {% unless serieUsesPerMovieMember %}
+        {% assign memberMovies = memberMovies | concat: memberSerie.movies %}
+    {% endunless %}
 {% endfor %}
+
+{% comment %} Part 2: Movies from ANY serie where this member is specified in the movie entry {% endcomment %}
+{% for serie in site.series %}
+    {% for movie in serie.movies %}
+        {% if movie.member-id == page.object-id %}
+            {% assign memberMovies = memberMovies | push: movie %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
 {% assign memberMovies = memberMovies | sort: "name" %}
+
 {% include movies_grid.html movies=memberMovies %}

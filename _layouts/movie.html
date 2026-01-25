@@ -43,11 +43,13 @@ layout: default
 
 	{% assign movieEdition = site.editions | where:"object-id", movieSerie.edition-id | first %}
 
-	{% if movieSerie.member-id  %}
-		{% assign movieMember = site.members | where:"object-id", movieSerie.member-id | first %}
-	{% endif %}	
+	{% assign thisMovieInSerie = movieSerie.movies | where: "movie-id", page.object-id | first %}
 
-	
+	{% if thisMovieInSerie.member-id %}
+		{% assign movieMember = site.members | where: "object-id", thisMovieInSerie.member-id | first %}
+	{% elsif movieSerie.member-id %}
+		{% assign movieMember = site.members | where: "object-id", movieSerie.member-id | first %}
+	{% endif %}
 
 	<h2>Tantarantana <a href="{{ movieEdition.url }}">{{movieEdition.name}}</a></h2>
 

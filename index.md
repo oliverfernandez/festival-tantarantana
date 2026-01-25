@@ -1,19 +1,14 @@
 ---
 layout: default
-label: XI Edición
+label: XII Edición
 ---
 
-{% assign edition2024 = site.editions | where:"object-id", "edition_2024"  | first %}
+{% assign edition2026 = site.editions | where:"object-id", "edition_2026"  | first %}
 
-## 2024 es un año especial para el Festival de cine Tantarantana
-<img src="/assets/images/2024.JPG">
-
-¡Tantarantana cumple 10 años y hemos decidido celebrarlo por todo lo alto! Porque el cine no es sólo descubrimiento, entretenimiento y sorpresa… también es recuerdo, nostalgia, aprendizaje, experiencia…
-
-En esta edición veremos algunos de nuestros títulos favoritos, incluyendo las finalistas de las primeras nueve ediciones, pero también algunas de las películas que más marcaron nuestra infancia, aquellas que no podemos evitar ver una y otra vez, y otras que, por mucho que el tiempo pase y no hayamos vuelto a revisionar, jamás podremos olvidar. Porque el tiempo puede hacernos ver las películas con otros ojos, cambiar nuestras gustos y opiniones, hacernos experimentar diferentes sensaciones como parte del proceso de crecimiento y maduraración, pero jamás borrará nuestro amor incondicional por el cine…
+## La selección oficial del 2026
 
 <ul class="edition--series">
-	{% for editionSerie in edition2024.series %}
+	{% for editionSerie in edition2026.series %}
 		{% assign serie = site.series | where:"object-id", editionSerie.serie-id | first %}
 		<li class="edition--serie">
 			<a class="edition--serie__link" href="{{ serie.url }}">{{ serie.label }}</a>
@@ -28,7 +23,7 @@ De aquí y de allá. Amantes del cine clásico, el americano más comercial o el
 El **Festival de Tantarantana** no sería posible sin su maravilloso jurado.
 
 <ul class="edition--members tantarantana--grid">
-	{% for editionMember in edition2024.members %}
+	{% for editionMember in edition2026.members %}
 		{% assign member = site.members | where:"object-id", editionMember.member-id | first %}
 		<li class="edition--member tantarantana--grid-item">
 			<a class="edition--member__link" href="{{ member.url }}">
@@ -37,7 +32,7 @@ El **Festival de Tantarantana** no sería posible sin su maravilloso jurado.
 					{{ member.label }}
 				</div>				
 			</a>
-			{% if edition2024.presidents-id contains member.object-id %}
+			{% if edition2026.presidents-id contains member.object-id %}
 				<img class="edition--members__president_badge" src="/assets/images/badge.png" title="President">
 			{% endif %}
 		</li>

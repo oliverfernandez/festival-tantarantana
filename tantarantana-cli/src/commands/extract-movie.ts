@@ -15,6 +15,10 @@ export class ExtractMovie extends Command {
       name: 'editionYear',
       required: true,
     },
+    {
+      name: 'memberId',
+      required: true,
+    },
   ]
 
   async run(): Promise<void> {
@@ -24,6 +28,7 @@ export class ExtractMovie extends Command {
       args.filmaffinityUrl,
       args.serieId,
       args.editionYear,
+      args.memberId,
     )
 
     console.log(`Created ${movieSavedPath}`)
