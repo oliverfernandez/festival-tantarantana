@@ -77,4 +77,5 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - tantarantana-cli/
+  - scripts/
   - _site

@@ -10,11 +10,11 @@ movies:
   - movie-id: https://www.filmaffinity.com/es/film950957.html
     member-id: member_alberto
   - movie-id: https://www.filmaffinity.com/es/film700716.html
-    member-id: member_cris
+    member-id: member_cristina
   - movie-id: https://www.filmaffinity.com/es/film243213.html
     member-id: member_carlos
   - movie-id: https://www.filmaffinity.com/es/film392480.html
-    member-id: member_cris
+    member-id: member_cristina
   - movie-id: https://www.filmaffinity.com/es/film892791.html
     member-id: member_gaby
   - movie-id: https://www.filmaffinity.com/es/film646631.html

@@ -12,7 +12,7 @@ movies:
   - movie-id: https://www.filmaffinity.com/es/film695356.html
     member-id: member_oliver
   - movie-id: https://www.filmaffinity.com/es/film412425.html
-    member-id: member_cris
+    member-id: member_cristina
   - movie-id: https://www.filmaffinity.com/es/film531158.html
     member-id: member_carlos
   - movie-id: https://www.filmaffinity.com/es/film731937.html
