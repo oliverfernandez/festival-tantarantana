@@ -16,7 +16,7 @@
 							{% if winner.photo %}
 								<img class="edition--award__photo" src="{{ winner.photo }}">
 							{% else %}
-								<img class="edition--award__photo" src="{{ winnerMovie.filmaffinity.cover }}">
+								<img class="edition--award__photo" src="{% include cover_url.html movie=winnerMovie %}">
 							{% endif %}
 						{% endif %}
 

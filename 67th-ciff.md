@@ -17,7 +17,7 @@ En esta edición el lema del festival es:
 
 ## [Retun to Seoul](https://www.filmaffinity.com/es/film464490.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/retour_a_seoul-648981594-mmed.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/qKVu2QqARzNZUkO9IpoSFaOXIRG.jpg">
 
 Por capricho, Freddie, de veinticinco años, regresa por primera vez a Corea del Sur, donde nació. La joven parte con ardor en busca de sus orígenes en este país que le es ajeno, inclinando su vida a nuevos e inesperados rumbos
 
@@ -33,7 +33,7 @@ _"Una película sobre la búsqueda de una parte de la historia de la protagonist
 
 ## [Grand Jeté](https://www.filmaffinity.com/es/film724641.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/grand_jete-554955487-mmed.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/oQV6PdGLxBxisjJiKpVVMdsr5rj.jpg">
 
 Para concentrarse en su carrera, una profesora de ballet vive alejada de su hijo pequeño, que creció con su madre. Cuando se reencuentra con él después de años, surge un afecto que va mucho más allá del amor materno
 
@@ -49,7 +49,7 @@ _"A nivel técnico, la dirección es un primerísimo plano, como en La vida de A
 
 ## [Matter Out Of Place](https://www.filmaffinity.com/es/film236220.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/matter_out_of_place-772195330-large.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/8d1JXMPMgpCYNBatbX9PxLLImzg.jpg">
 
 Una película sobre desechos en áreas remotas y sobre personas que intentan limpiar. Retrata el trabajo de Sísifo de los recolectores de basura y los administradores de desechos en todo el mundo.
 
@@ -61,7 +61,7 @@ _"Un acercamiento interesante, comprometido y consistente a un tema de gran rele
 
 ## [Godland](https://www.filmaffinity.com/es/film645982.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/vanskabte_land-330039360-large.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/lkqCFySAteosKDEVRJLYFp60rK8.jpg">
 
 A finales del siglo XIX, un joven sacerdote danés llega a Islandia con la misión de construir una iglesia y fotografiar a sus habitantes. Pero, cuanto más se interna en aquel implacable paisaje, más se sume en las ansias de la tentación y el pecado.
 
@@ -77,7 +77,7 @@ _"Godland está inspirada en unas fotografías del siglo XIX encontradas en un p
 
 ## [Arnold is a Model Student](https://www.filmaffinity.com/es/film425154.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/arnold_is_a_model_student-670932120-mmed.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/amuJuDNaZdVDSkbYBmBpcMJTvX3.jpg">
 
 Arnold es un estudiante inteligente que ha ganado muchos premios académicos, Un día, conoce a Bee, que tiene un negocio clandestino para ayudar a los estudiantes a hacer trampas en los exámenes. Bee le pide a Arnold unirse a su círculo de tramposos y le ofrece un montón de dinero.
 
@@ -93,7 +93,7 @@ _"Interesante film asiático que denuncia como la corrupción se extiende por va
 
 ## [Alcarràs](https://www.filmaffinity.com/es/film457848.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/alcarras-600661704-mmed.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/uQYR7MNLtLWN1WdbITOqzA28eH9.jpg">
 
 Durante generaciones, la familia Solé, cultiva una gran extensión de melocotoneros en Alcarràs, una pequeña localidad rural de Cataluña. Pero este verano, después de ochenta años cultivando la misma tierra, puede que sea su última cosecha. 
 
@@ -109,7 +109,7 @@ _"Magnífico retrato constumbrista de una família de payeses de un pueblecito d
 
 ## [Love Around the World](https://www.filmaffinity.com/es/film645879.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/love_around_the_world-703585607-mmed.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/mYnembjCMR08RrkaZiWgPp1hy0Y.jpg">
 
 Un matrimonio se embarca en un viaje de 15 meses alrededor del mundo en busca de una respuesta a la pregunta: ¿Es el amor universal?
 
@@ -125,7 +125,7 @@ _"Una pareja de Croacia recién casada decide pasar su luna de miel durante un a
 
 ## [Ballywalter](https://www.filmaffinity.com/es/film637119.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/ballywalter-336748530-mmed.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/pXcSaQcrbLdTdSmvI1R6JOzZAUY.jpg">
 
 La relación que se desarrolla entre Eileen, conductora de minitaxis sin licencia, que ha dejado la universidad, y Shane, más mayor y aspirante a cómico, cuyo matrimonio se acaba de romper.
 
@@ -141,7 +141,7 @@ _"Eileen y Shane viven en un pueblo de Irlanda del Norte, donde poco más hay qu
 
 ## [Tenéis que venir a verla](https://www.filmaffinity.com/es/film754398.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/Ten_is_que_venir_a_verla-585269293-large.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/2XCxaYGcoqCtYvlktXFVuIb8lYL.jpg">
 
 Dos parejas de amigos se reencuentran. Escuchan música, hablan, leen, comen, pasean, juegan al ping-pong... Puede parecer poco para una película, por eso... TENÉIS QUE VENIR A VERLA.
 
@@ -157,7 +157,7 @@ _"Si has leído la sinopsis de Filmaffinity, ya has visto la película, porque l
 
 ## [Corsage](https://www.filmaffinity.com/es/film511173.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/corsage-476301137-mmed.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/7g2f4zfzaDFnLoAmZaitowmfkza.jpg">
 
 En la Navidad de 1877, Isabel de Austria (Sissi), celebra su 40º cumpleaños. Primera dama de Austria, mujer del emperador Francisco José I, no tiene derecho a expresarse y debe mantenerse hermosa y joven para siempre en su papel de emperatriz. Para satisfacer estas expectativas, adopta un estricto régimen de ayuno, ejercicios, peluquería y medición diaria de su cintura. Asfixiada por dichas convenciones, y con un apetito voraz de saber y de vida, Isabel se rebela cada vez más contra esta imagen.
 
@@ -169,7 +169,7 @@ _"Una película atrevida, empática y en ocasiones provocadora, que nos ofrece u
 
 ## [All The Beauty and the Bloodshed](https://www.filmaffinity.com/es/film659329.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/all_the_beauty_and_the_bloodshed-580648221-mmed.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/ohMfLasW7ngNn4jqgMzC2obMyLn.jpg">
 
 Sigue la vida de la artista Nan Goldin y la caída de la familia Sackler, la dinastía farmacéutica que fue en gran parte responsable del insondable número de muertos de la epidemia de opioides.
 
@@ -185,7 +185,7 @@ _"Durísimo documental biográfico sobre la vida de la fotógrafa Nan Goldin y s
 
 ## [El viento que agita la cebada](https://www.filmaffinity.com/es/film972991.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/the_wind_that_shakes_the_barley-102510287-mmed.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/1DktK3noMCRiR7MaxOC3Ja6u3kL.jpg">
 
 Irlanda, 1920. Dos hermanos se alistan en la guerrilla para combatir contra las tropas británicas que intentan impedir la independencia de Irlanda. El amor por su país hace que Damien (Cillian Murphy) abandone su prometedora carrera de médico y se una a su hermano Teddy (Pádraic Delaney) en la lucha por la libertad. Tras sufrir varias derrotas y un escalofriante número de bajas, el Gobierno Británico decide pactar con los rebeldes. Pero el acuerdo alcanzado provoca divisiones dentro del IRA y desemboca en un nuevo y fratricida conflicto armado.
 
@@ -201,7 +201,7 @@ _"Película histórica y bélica, en el contexto de la revolución irlandesa con
 
 ## [Mundo Extraño](https://www.filmaffinity.com/es/film113960.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/strange_world-322524119-mmed.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/qar9Er59NVxT0mN49pdm8KxOtJA.jpg">
 
 Los legendarios Clades son una familia de exploradores cuyas diferencias amenazan con derribar su última y más crucial misión.
 
@@ -217,7 +217,7 @@ _"Mundo Extraño contiene las dos caras de una misma moneda. Por un lado, el mú
 
 ## [Matilda, de Roald Dahl: El musical](https://www.filmaffinity.com/es/film143661.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/roald_dahl_s_matilda_the_musical-470859483-mmed.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg">
 
 Adaptación del musical premiado con el Tony y el Olivier. Matilda cuenta la historia de una niña extraordinaria que, armada con una mente aguda y una imaginación vívida, se atreve a tomar una posición para cambiar su historia con resultados milagrosos.
 
@@ -233,7 +233,7 @@ _"Nueva adaptación al cine de la novela de Roald Dahl. Sin haber leído el libr
 
 ## [El imperio de la luz](https://www.filmaffinity.com/es/film547708.html)
 
-<img class="ciff-cover" src="https://pics.filmaffinity.com/empire_of_light-272413261-mmed.jpg">
+<img class="ciff-cover" src="https://image.tmdb.org/t/p/w342/7Y7l9FDxdknampTfpp6qjVWm54O.jpg">
 
 Una historia de amor ambientada alrededor de un hermoso cine antiguo en la costa sur de Inglaterra, en la década de 1980.
 

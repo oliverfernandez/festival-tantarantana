@@ -23,7 +23,8 @@
     <meta property="og:type" content="article">
     <meta name="og:description" content="{{ page.synopsis | escape  }}">
     <meta name="description" content="{{ page.synopsis | escape  }}">
-    <meta property="og:image" content="{{ page.filmaffinity.cover }}"/>
+    {% capture ogCover %}{% include cover_url.html movie=page %}{% endcapture %}
+    <meta property="og:image" content="{% if ogCover contains "://" %}{{ ogCover }}{% else %}{{ site.url }}{{ ogCover }}{% endif %}"/>
 {% elsif page.collection == "series" %}
     {% assign serieEdition = site.editions | where:"object-id", page.edition-id | first %}
     <title>{{ page.label }} | {{ serieEdition.label }} del {{ site.title }}</title>

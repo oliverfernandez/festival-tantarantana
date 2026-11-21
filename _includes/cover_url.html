@@ -1,0 +1,13 @@
+{%- comment -%}
+  Outputs the poster URL for include.movie.
+  TMDB first; FilmAffinity covers only when they are not hotlinked from pics.filmaffinity.com
+  (blocked with 403 since 2026), e.g. the local placeholder of upcoming movies; otherwise the placeholder.
+{%- endcomment -%}
+{%- assign coverUrl = include.movie.tmdb.poster -%}
+{%- if coverUrl == nil or coverUrl == "" -%}
+  {%- assign coverUrl = include.movie.filmaffinity.cover -%}
+{%- endif -%}
+{%- if coverUrl == nil or coverUrl == "" or coverUrl contains "pics.filmaffinity.com" -%}
+  {%- assign coverUrl = "/assets/images/unknown.png" -%}
+{%- endif -%}
+{{- coverUrl -}}
