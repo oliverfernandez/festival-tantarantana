@@ -12,7 +12,7 @@
 		{% else %}
 			<a href="{{ movieToRender.filmaffinity.url }}" target="_blank">
 		{% endif %}		
-				<img class="serie--movie__cover" src="{{ movieToRender.filmaffinity.cover }}">
+				<img class="serie--movie__cover" src="{% include cover_url.html movie=movieToRender %}">
 			</a>	
 			<div class="serie--movie--info">
 				<em class="serie--movie--info__director"> {{ movieToRender.director }} </em>

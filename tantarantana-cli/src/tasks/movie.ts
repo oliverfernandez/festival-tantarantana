@@ -1,5 +1,6 @@
 import puppeteer, {Page} from 'puppeteer'
 import {saveYamlMarkdown} from '../utils/files'
+import {findTmdb, Tmdb} from './tmdb'
 
 type Filmaffinity = {
   cover?: string|null,
@@ -17,6 +18,7 @@ type Movie = {
   cast?: string|null,
   synopsis?: string|null
   filmaffinity: Filmaffinity
+  tmdb?: Tmdb
   'member-id': string
 }
 
@@ -60,6 +62,14 @@ class FilmaffinityPage {
   async getTitle(): Promise<string | null> {
     const page = await this.pagePromise
     return page.$eval('#main-title', (el: Element) => el.textContent?.trim() ?? null).catch(() => null)
+  }
+
+  async getOriginalTitle(): Promise<string | null> {
+    const page = await this.pagePromise
+    return page.$$eval('.movie-info dt', (elements: Element[]) => {
+      const dt = elements.find(el => el.textContent?.trim() === 'Título original')
+      return dt?.nextElementSibling?.textContent?.trim().replace(/\s*aka$/, '') ?? null
+    }).catch(() => null)
   }
 
   async getDirector(): Promise<string | null> {
@@ -127,8 +137,10 @@ export async function extract(
 ): Promise<Movie> {
   const filmaffinityPage = new FilmaffinityPage(filmaffinityUrl)
 
+  let movie: Movie
+  let originalTitle: string | null
   try {
-    return {
+    movie = {
       'object-id': filmaffinityUrl,
       'serie-id': serieId,
       'member-id': memberId,
@@ -144,9 +156,19 @@ export async function extract(
         url: filmaffinityUrl,
       },
     }
+    originalTitle = await filmaffinityPage.getOriginalTitle()
   } finally {
     await filmaffinityPage.close()
   }
+
+  const tmdb = await findTmdb(filmaffinityUrl, [originalTitle, movie.name ?? null], movie.year ?? null, movie.director ?? null)
+    .catch(error => {
+      console.warn(`TMDB lookup failed: ${error.message}`)
+      return null
+    })
+  if (tmdb) movie.tmdb = tmdb
+
+  return movie
 }
 
 export async function saveToDisk(movie: Movie, editionYear: string): Promise<string> {

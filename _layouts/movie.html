@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="movie--filmaffinity">
-	<img class="movie--filmaffinity__cover" src="{{ page.filmaffinity.cover }}">
+	<img class="movie--filmaffinity__cover" src="{% include cover_url.html movie=page %}">
 
 	<dl class="movie--filmaffinity__details movie--table">
 		<dt>Año</dt>
