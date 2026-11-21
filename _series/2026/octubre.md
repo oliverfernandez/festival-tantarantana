@@ -10,7 +10,7 @@ movies:
   - movie-id: https://www.filmaffinity.com/es/film418048.html
     member-id: member_alberto
   - movie-id: https://www.filmaffinity.com/es/film370027.html
-    member-id: member_cris
+    member-id: member_cristina
   - movie-id: https://www.filmaffinity.com/es/film329292.html
     member-id: member_oliver
   - movie-id: https://www.filmaffinity.com/es/film401256.html

@@ -8,7 +8,7 @@ description: |
   En aquest cicle ens endinsarem en el cinema estiuenc. Volem que trieu pel·lícules que ens facin sentir estiu, amb aventures, diversió i bon rotllo per gaudir de la temporada més calorosa de l’any.
 movies:
   - movie-id: https://www.filmaffinity.com/es/film930595.html
-    member-id: member_cris
+    member-id: member_cristina
   - movie-id: https://www.filmaffinity.com/es/film545550.html
     member-id: member_gaby
   - movie-id: https://www.filmaffinity.com/es/film850990.html
